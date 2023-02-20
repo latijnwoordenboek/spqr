@@ -1,0 +1,4545 @@
+[
+  {
+    "latijn": "audire",
+    "nederlands": "horen"
+  },
+  {
+    "latijn": "clamare",
+    "nederlands": "schreeuwen"
+  },
+  {
+    "latijn": "iacēre",
+    "nederlands": "liggen"
+  },
+  {
+    "latijn": "iubēre",
+    "nederlands": "bevelen"
+  },
+  {
+    "latijn": "lacrimare",
+    "nederlands": "huilen"
+  },
+  {
+    "latijn": "necare",
+    "nederlands": "doden"
+  },
+  {
+    "latijn": "ponere",
+    "nederlands": "plaatsen"
+  },
+  {
+    "latijn": "portare",
+    "nederlands": "dragen"
+  },
+  {
+    "latijn": "recusare",
+    "nederlands": "weigeren"
+  },
+  {
+    "latijn": "timēre",
+    "nederlands": "vrezen, bang zijn voor"
+  },
+  {
+    "latijn": "tollere",
+    "nederlands": "optillen"
+  },
+  {
+    "latijn": "venire",
+    "nederlands": "komen"
+  },
+  {
+    "latijn": "vidēre",
+    "nederlands": "zien"
+  },
+  {
+    "latijn": "vocare",
+    "nederlands": "1 roepen, 2 noemen"
+  },
+  {
+    "latijn": "aqua",
+    "nederlands": "water"
+  },
+  {
+    "latijn": "arbor",
+    "nederlands": "boom"
+  },
+  {
+    "latijn": "flumen,flumina",
+    "nederlands": "rivier"
+  },
+  {
+    "latijn": "locus",
+    "nederlands": "plaats"
+  },
+  {
+    "latijn": "mandatum",
+    "nederlands": "opdracht"
+  },
+  {
+    "latijn": "puer, pueri",
+    "nederlands": "jongen"
+  },
+  {
+    "latijn": "rex, reges",
+    "nederlands": "koning"
+  },
+  {
+    "latijn": "servus",
+    "nederlands": "slaaf"
+  },
+  {
+    "latijn": "ad + acc",
+    "nederlands": "1 naar, tot 2 bij"
+  },
+  {
+    "latijn": "in + acc",
+    "nederlands": "in, naar"
+  },
+  {
+    "latijn": "inter + acc",
+    "nederlands": "1 tussen 2 tijdens"
+  },
+  {
+    "latijn": "et",
+    "nederlands": "1 en 2 ook"
+  },
+  {
+    "latijn": "ibi",
+    "nederlands": "daar"
+  },
+  {
+    "latijn": "ideo",
+    "nederlands": "daarom"
+  },
+  {
+    "latijn": "non",
+    "nederlands": "niet"
+  },
+  {
+    "latijn": "tamen",
+    "nederlands": "toch"
+  },
+  {
+    "latijn": "ubi",
+    "nederlands": "waar"
+  },
+  {
+    "latijn": "accedere",
+    "nederlands": "1 gaan naar 2 naderen"
+  },
+  {
+    "latijn": "bibere",
+    "nederlands": "drinken"
+  },
+  {
+    "latijn": "cogitare",
+    "nederlands": "(na)denken"
+  },
+  {
+    "latijn": "custodire",
+    "nederlands": "bewaken"
+  },
+  {
+    "latijn": "dare",
+    "nederlands": "geven"
+  },
+  {
+    "latijn": "dicere",
+    "nederlands": "zeggen"
+  },
+  {
+    "latijn": "esse",
+    "nederlands": "zijn"
+  },
+  {
+    "latijn": "favēre + dat",
+    "nederlands": "steun geven aan"
+  },
+  {
+    "latijn": "praebēre",
+    "nederlands": "(aan)bieden"
+  },
+  {
+    "latijn": "protegere",
+    "nederlands": "beschermen"
+  },
+  {
+    "latijn": "ridēre",
+    "nederlands": "lachen"
+  },
+  {
+    "latijn": "tradere",
+    "nederlands": "overhandigen"
+  },
+  {
+    "latijn": "deus",
+    "nederlands": "god"
+  },
+  {
+    "latijn": "femina",
+    "nederlands": "vrouw"
+  },
+  {
+    "latijn": "filius",
+    "nederlands": "zoon"
+  },
+  {
+    "latijn": "mater, matres",
+    "nederlands": "moeder"
+  },
+  {
+    "latijn": "nomen, nomina",
+    "nederlands": "naam"
+  },
+  {
+    "latijn": "pater, patres",
+    "nederlands": "vader"
+  },
+  {
+    "latijn": "uxor, uxores",
+    "nederlands": "echtgenote"
+  },
+  {
+    "latijn": "haud",
+    "nederlands": "helemaal niet"
+  },
+  {
+    "latijn": "nam",
+    "nederlands": "want"
+  },
+  {
+    "latijn": "sic",
+    "nederlands": "zo"
+  },
+  {
+    "latijn": "sicut",
+    "nederlands": "zoals"
+  },
+  {
+    "latijn": "subito",
+    "nederlands": "plotseling"
+  },
+  {
+    "latijn": "aedificare",
+    "nederlands": "bouwen"
+  },
+  {
+    "latijn": "dividere",
+    "nederlands": "verdelen"
+  },
+  {
+    "latijn": "facere,facio",
+    "nederlands": "1 doen 2 maken"
+  },
+  {
+    "latijn": "intrare",
+    "nederlands": "binnenkomen"
+  },
+  {
+    "latijn": "licet (+dat)",
+    "nederlands": "het is toegestaan (aan)"
+  },
+  {
+    "latijn": "placēre + dat",
+    "nederlands": "bevallen"
+  },
+  {
+    "latijn": "stare",
+    "nederlands": "staan"
+  },
+  {
+    "latijn": "tacēre",
+    "nederlands": "zwijgen"
+  },
+  {
+    "latijn": "amicus",
+    "nederlands": "vriend"
+  },
+  {
+    "latijn": "civis, cives",
+    "nederlands": "burger"
+  },
+  {
+    "latijn": "frater, fratres",
+    "nederlands": "broer"
+  },
+  {
+    "latijn": "gladius",
+    "nederlands": "zwaard"
+  },
+  {
+    "latijn": "hostis, hostes",
+    "nederlands": "vijand"
+  },
+  {
+    "latijn": "mons, montes",
+    "nederlands": "berg, heuvel"
+  },
+  {
+    "latijn": "murus",
+    "nederlands": "muur"
+  },
+  {
+    "latijn": "populus",
+    "nederlands": "volk"
+  },
+  {
+    "latijn": "saxum",
+    "nederlands": "rots, rotsblok"
+  },
+  {
+    "latijn": "urbs, urbes",
+    "nederlands": "stad"
+  },
+  {
+    "latijn": "vir, mv viri",
+    "nederlands": "man"
+  },
+  {
+    "latijn": "cum + abl",
+    "nederlands": "met"
+  },
+  {
+    "latijn": "de + abl",
+    "nederlands": "1 van(af) 2 over"
+  },
+  {
+    "latijn": "in + abl",
+    "nederlands": "1 in 2 op"
+  },
+  {
+    "latijn": "cur",
+    "nederlands": "waarom"
+  },
+  {
+    "latijn": "dum",
+    "nederlands": "1 terwijl 2 zolang als"
+  },
+  {
+    "latijn": "iam",
+    "nederlands": "al, reeds"
+  },
+  {
+    "latijn": "primum bijw",
+    "nederlands": "eerst"
+  },
+  {
+    "latijn": "quoque",
+    "nederlands": "ook"
+  },
+  {
+    "latijn": "sed",
+    "nederlands": "maar"
+  },
+  {
+    "latijn": "tandem",
+    "nederlands": "eindelijk"
+  },
+  {
+    "latijn": "cadere",
+    "nederlands": "vallen"
+  },
+  {
+    "latijn": "dormire",
+    "nederlands": "slapen"
+  },
+  {
+    "latijn": "retinēre",
+    "nederlands": "tegenhouden"
+  },
+  {
+    "latijn": "servare",
+    "nederlands": "redden"
+  },
+  {
+    "latijn": "temptare",
+    "nederlands": "proberen"
+  },
+  {
+    "latijn": "arma mv",
+    "nederlands": "wapens"
+  },
+  {
+    "latijn": "arx, arces",
+    "nederlands": "burcht"
+  },
+  {
+    "latijn": "auxilium",
+    "nederlands": "hulp"
+  },
+  {
+    "latijn": "custos, custodes",
+    "nederlands": "bewaker"
+  },
+  {
+    "latijn": "miles, milites",
+    "nederlands": "soldaat"
+  },
+  {
+    "latijn": "nox, noctes",
+    "nederlands": "nacht"
+  },
+  {
+    "latijn": "pars, partes",
+    "nederlands": "deel"
+  },
+  {
+    "latijn": "periculum",
+    "nederlands": "gevaar"
+  },
+  {
+    "latijn": "puella",
+    "nederlands": "meisje"
+  },
+  {
+    "latijn": "Roma",
+    "nederlands": "Rome"
+  },
+  {
+    "latijn": "Romanus",
+    "nederlands": "Romein"
+  },
+  {
+    "latijn": "silentium",
+    "nederlands": "stilte"
+  },
+  {
+    "latijn": "turba",
+    "nederlands": "menigte"
+  },
+  {
+    "latijn": "post + acc",
+    "nederlands": "1 achter 2 na"
+  },
+  {
+    "latijn": "ecce",
+    "nederlands": "kijk"
+  },
+  {
+    "latijn": "semper",
+    "nederlands": "altijd"
+  },
+  {
+    "latijn": "si",
+    "nederlands": "als, indien"
+  },
+  {
+    "latijn": "statim",
+    "nederlands": "meteen"
+  },
+  {
+    "latijn": "abesse",
+    "nederlands": "afwezig zijn"
+  },
+  {
+    "latijn": "addere",
+    "nederlands": "toevoegen"
+  },
+  {
+    "latijn": "ardēre",
+    "nederlands": "branden"
+  },
+  {
+    "latijn": "debēre",
+    "nederlands": "moeten"
+  },
+  {
+    "latijn": "discedere",
+    "nederlands": "weggaan"
+  },
+  {
+    "latijn": "docēre",
+    "nederlands": "onderwijzen"
+  },
+  {
+    "latijn": "ludere",
+    "nederlands": "spelen"
+  },
+  {
+    "latijn": "orare",
+    "nederlands": "1 bidden (tot) 2 smeken (om)"
+  },
+  {
+    "latijn": "ostendere",
+    "nederlands": "tonen"
+  },
+  {
+    "latijn": "vivere",
+    "nederlands": "leven"
+  },
+  {
+    "latijn": "annus",
+    "nederlands": "jaar"
+  },
+  {
+    "latijn": "culpa",
+    "nederlands": "schuld"
+  },
+  {
+    "latijn": "dea",
+    "nederlands": "godin"
+  },
+  {
+    "latijn": "ignis, ignes",
+    "nederlands": "vuur"
+  },
+  {
+    "latijn": "poena",
+    "nederlands": "straf"
+  },
+  {
+    "latijn": "signum",
+    "nederlands": "teken"
+  },
+  {
+    "latijn": "sol, soles",
+    "nederlands": "zon"
+  },
+  {
+    "latijn": "e/ex + abl",
+    "nederlands": "uit"
+  },
+  {
+    "latijn": "super + acc",
+    "nederlands": "boven(op), over"
+  },
+  {
+    "latijn": "autem",
+    "nederlands": "echter"
+  },
+  {
+    "latijn": "diu",
+    "nederlands": "lang, lange tijd"
+  },
+  {
+    "latijn": "mox",
+    "nederlands": "spoedig"
+  },
+  {
+    "latijn": "nuper",
+    "nederlands": "kort geleden"
+  },
+  {
+    "latijn": "tantum",
+    "nederlands": "slechts, alleen maar"
+  },
+  {
+    "latijn": "amare",
+    "nederlands": "houden van, liefhebben"
+  },
+  {
+    "latijn": "celebrare",
+    "nederlands": "(feest)vieren"
+  },
+  {
+    "latijn": "cupere, cupio",
+    "nederlands": "graag willen, verlangen"
+  },
+  {
+    "latijn": "exspectare",
+    "nederlands": "wachten (op)"
+  },
+  {
+    "latijn": "fugere, fugio",
+    "nederlands": "vluchten"
+  },
+  {
+    "latijn": "gerere",
+    "nederlands": "1 dragen 2 voeren"
+  },
+  {
+    "latijn": "narrare",
+    "nederlands": "vertellen"
+  },
+  {
+    "latijn": "pugnare",
+    "nederlands": "vechten"
+  },
+  {
+    "latijn": "sedēre",
+    "nederlands": "zitten"
+  },
+  {
+    "latijn": "vendere",
+    "nederlands": "verkopen"
+  },
+  {
+    "latijn": "vincere",
+    "nederlands": "(over)winnen"
+  },
+  {
+    "latijn": "bellum",
+    "nederlands": "oorlog"
+  },
+  {
+    "latijn": "dux, duces",
+    "nederlands": "aanvoerder, leider"
+  },
+  {
+    "latijn": "equus",
+    "nederlands": "paard"
+  },
+  {
+    "latijn": "forum",
+    "nederlands": "forum, marktplaats"
+  },
+  {
+    "latijn": "pugna",
+    "nederlands": "gevecht"
+  },
+  {
+    "latijn": "templum",
+    "nederlands": "tempel"
+  },
+  {
+    "latijn": "victoria",
+    "nederlands": "overwinning"
+  },
+  {
+    "latijn": "vita",
+    "nederlands": "(het) leven"
+  },
+  {
+    "latijn": "pro + abl",
+    "nederlands": "1 voor 2 in plaats van"
+  },
+  {
+    "latijn": "prope + acc",
+    "nederlands": "dichtbij"
+  },
+  {
+    "latijn": "interea",
+    "nederlands": "intussen"
+  },
+  {
+    "latijn": "num",
+    "nederlands": "(toch) zeker niet"
+  },
+  {
+    "latijn": "scilicet",
+    "nederlands": "natuurlijk"
+  },
+  {
+    "latijn": "complēre",
+    "nederlands": "vullen"
+  },
+  {
+    "latijn": "curare + acc",
+    "nederlands": "verzorgen, zorgen voor"
+  },
+  {
+    "latijn": "emere",
+    "nederlands": "kopen"
+  },
+  {
+    "latijn": "habēre",
+    "nederlands": "hebben"
+  },
+  {
+    "latijn": "incipere, incipio",
+    "nederlands": "beginnen"
+  },
+  {
+    "latijn": "manēre",
+    "nederlands": "blijven"
+  },
+  {
+    "latijn": "respondēre",
+    "nederlands": "antwoorden"
+  },
+  {
+    "latijn": "rogare",
+    "nederlands": "vragen"
+  },
+  {
+    "latijn": "vetare",
+    "nederlands": "verbieden"
+  },
+  {
+    "latijn": "filia",
+    "nederlands": "dochter"
+  },
+  {
+    "latijn": "initium",
+    "nederlands": "begin"
+  },
+  {
+    "latijn": "pecunia",
+    "nederlands": "geld"
+  },
+  {
+    "latijn": "poculum",
+    "nederlands": "beker"
+  },
+  {
+    "latijn": "soror, sorores",
+    "nederlands": "zus"
+  },
+  {
+    "latijn": "spectator, -ores",
+    "nederlands": "toeschouwer"
+  },
+  {
+    "latijn": "via",
+    "nederlands": "weg, straat"
+  },
+  {
+    "latijn": "ante + acc",
+    "nederlands": "voor"
+  },
+  {
+    "latijn": "sub + abl",
+    "nederlands": "onder"
+  },
+  {
+    "latijn": "aut",
+    "nederlands": "of"
+  },
+  {
+    "latijn": "fortasse",
+    "nederlands": "misschien"
+  },
+  {
+    "latijn": "hic",
+    "nederlands": "hier"
+  },
+  {
+    "latijn": "immo",
+    "nederlands": "integendeel"
+  },
+  {
+    "latijn": "nihil",
+    "nederlands": "niets"
+  },
+  {
+    "latijn": "nonne",
+    "nederlands": "(toch) zeker wel"
+  },
+  {
+    "latijn": "quando",
+    "nederlands": "wanneer"
+  },
+  {
+    "latijn": "quod",
+    "nederlands": "1 omdat 2 (datgene) wat"
+  },
+  {
+    "latijn": "claudere",
+    "nederlands": "sluiten"
+  },
+  {
+    "latijn": "currere",
+    "nederlands": "rennen"
+  },
+  {
+    "latijn": "finire",
+    "nederlands": "beëindigen"
+  },
+  {
+    "latijn": "fluere",
+    "nederlands": "stromen"
+  },
+  {
+    "latijn": "gaudēre",
+    "nederlands": "blij zijn"
+  },
+  {
+    "latijn": "nuntiare",
+    "nederlands": "berichten, aankondigen"
+  },
+  {
+    "latijn": "posse",
+    "nederlands": "kunnen"
+  },
+  {
+    "latijn": "spectare",
+    "nederlands": "kijken (naar)"
+  },
+  {
+    "latijn": "superare",
+    "nederlands": "1 overtreffen 2 overwinnen"
+  },
+  {
+    "latijn": "animal, animalia",
+    "nederlands": "dier"
+  },
+  {
+    "latijn": "nemo, gen neminis",
+    "nederlands": "niemand"
+  },
+  {
+    "latijn": "oculus",
+    "nederlands": "oog"
+  },
+  {
+    "latijn": "sanguis, gen -guinis",
+    "nederlands": "bloed"
+  },
+  {
+    "latijn": "spectaculum",
+    "nederlands": "voorstelling"
+  },
+  {
+    "latijn": "cito bijw",
+    "nederlands": "snel"
+  },
+  {
+    "latijn": "deinde",
+    "nederlands": "daarna"
+  },
+  {
+    "latijn": "domi",
+    "nederlands": "thuis"
+  },
+  {
+    "latijn": "hodie",
+    "nederlands": "vandaag"
+  },
+  {
+    "latijn": "ita",
+    "nederlands": "zo"
+  },
+  {
+    "latijn": "iterum",
+    "nederlands": "weer, opnieuw"
+  },
+  {
+    "latijn": "numquam",
+    "nederlands": "nooit"
+  },
+  {
+    "latijn": "quid",
+    "nederlands": "wat"
+  },
+  {
+    "latijn": "quis",
+    "nederlands": "wie"
+  },
+  {
+    "latijn": "quo",
+    "nederlands": "waarheen"
+  },
+  {
+    "latijn": "ubique",
+    "nederlands": "overal"
+  },
+  {
+    "latijn": "valde",
+    "nederlands": "zeer, erg"
+  },
+  {
+    "latijn": "pendēre",
+    "nederlands": "hangen"
+  },
+  {
+    "latijn": "petere",
+    "nederlands": "aanvallen"
+  },
+  {
+    "latijn": "procedere",
+    "nederlands": "1 voortgaan 2 lopen"
+  },
+  {
+    "latijn": "resistere",
+    "nederlands": "weerstand bieden"
+  },
+  {
+    "latijn": "salutare",
+    "nederlands": "(be)groeten"
+  },
+  {
+    "latijn": "tenēre",
+    "nederlands": "(vast)houden"
+  },
+  {
+    "latijn": "vulnerare",
+    "nederlands": "verwonden"
+  },
+  {
+    "latijn": "agmen, agmina",
+    "nederlands": "rij, stoet"
+  },
+  {
+    "latijn": "caput, capita",
+    "nederlands": "hoofd"
+  },
+  {
+    "latijn": "corpus, corpora",
+    "nederlands": "lichaam"
+  },
+  {
+    "latijn": "homo, homines",
+    "nederlands": "mens, man"
+  },
+  {
+    "latijn": "leo, leones",
+    "nederlands": "leeuw"
+  },
+  {
+    "latijn": "pes, pedes",
+    "nederlands": "voet, poot"
+  },
+  {
+    "latijn": "terra",
+    "nederlands": "aarde, grond"
+  },
+  {
+    "latijn": "umbra",
+    "nederlands": "schaduw"
+  },
+  {
+    "latijn": "vinum",
+    "nederlands": "wijn"
+  },
+  {
+    "latijn": "a/ab + abl",
+    "nederlands": "1 vanaf 2 door"
+  },
+  {
+    "latijn": "per + acc",
+    "nederlands": "1 door(heen) 2 gedurende 3 over(heen)"
+  },
+  {
+    "latijn": "enim",
+    "nederlands": "immers, want"
+  },
+  {
+    "latijn": "frustra",
+    "nederlands": "tevergeefs"
+  },
+  {
+    "latijn": "longe",
+    "nederlands": "ver (weg), verreweg"
+  },
+  {
+    "latijn": "alere",
+    "nederlands": "voeden"
+  },
+  {
+    "latijn": "effugere, effugio (+ acc)",
+    "nederlands": "wegvluchten (voor)"
+  },
+  {
+    "latijn": "exstinguere",
+    "nederlands": "blussen"
+  },
+  {
+    "latijn": "omittere",
+    "nederlands": "achterwege laten, weglaten"
+  },
+  {
+    "latijn": "persuadēre + dat",
+    "nederlands": "1 overhalen 2 overtuigen"
+  },
+  {
+    "latijn": "effugi",
+    "nederlands": "pf van effugere"
+  },
+  {
+    "latijn": "evasi",
+    "nederlands": "pf van evadere"
+  },
+  {
+    "latijn": "persuasi",
+    "nederlands": "pf van persuadēre"
+  },
+  {
+    "latijn": "adulescens, -entes",
+    "nederlands": "jongeman, jongen"
+  },
+  {
+    "latijn": "bona mv",
+    "nederlands": "goederen"
+  },
+  {
+    "latijn": "exitium",
+    "nederlands": "ondergang"
+  },
+  {
+    "latijn": "fama",
+    "nederlands": "1 gerucht 2 goede naam 3 slechte naam"
+  },
+  {
+    "latijn": "flamma",
+    "nederlands": "vlam"
+  },
+  {
+    "latijn": "incendium",
+    "nederlands": "brand"
+  },
+  {
+    "latijn": "poeta",
+    "nederlands": "dichter"
+  },
+  {
+    "latijn": "salus, gen salutis",
+    "nederlands": "1 welzijn 2 redding"
+  },
+  {
+    "latijn": "tardus",
+    "nederlands": "1 traag 2 (te) laat"
+  },
+  {
+    "latijn": "hinc",
+    "nederlands": "hiervandaan"
+  },
+  {
+    "latijn": "itaque",
+    "nederlands": "dus"
+  },
+  {
+    "latijn": "aliquid",
+    "nederlands": "iets"
+  },
+  {
+    "latijn": "aliquis",
+    "nederlands": "iemand"
+  },
+  {
+    "latijn": "gratias agere",
+    "nederlands": "dank betuigen"
+  },
+  {
+    "latijn": "imponere",
+    "nederlands": "plaatsen op, opleggen"
+  },
+  {
+    "latijn": "perdere",
+    "nederlands": "1 vernietigen 2 verliezen"
+  },
+  {
+    "latijn": "perire",
+    "nederlands": "omkomen"
+  },
+  {
+    "latijn": "dedidi",
+    "nederlands": "pf van dedere"
+  },
+  {
+    "latijn": "perdidi",
+    "nederlands": "pf van perdere"
+  },
+  {
+    "latijn": "perii",
+    "nederlands": "pf van perire"
+  },
+  {
+    "latijn": "recepi",
+    "nederlands": "pf van recipere"
+  },
+  {
+    "latijn": "fames, gen famis",
+    "nederlands": "honger"
+  },
+  {
+    "latijn": "inopia",
+    "nederlands": "1 gebrek 2 armoede"
+  },
+  {
+    "latijn": "sacerdos, sacerdotes",
+    "nederlands": "priester"
+  },
+  {
+    "latijn": "immensus, -a, -um",
+    "nederlands": "onmetelijk"
+  },
+  {
+    "latijn": "sanctus",
+    "nederlands": "1 heilig 2 onschendbaar"
+  },
+  {
+    "latijn": "securus, -a, -um",
+    "nederlands": "onbezorgd"
+  },
+  {
+    "latijn": "sacer, sacra, sacrum",
+    "nederlands": "1 heilig 2 + dat gewijd aan"
+  },
+  {
+    "latijn": "captivus, -a, -um",
+    "nederlands": "1 bnw krijgsgevangen 2 znw krijgsgevangene"
+  },
+  {
+    "latijn": "aliqui, aliqua, aliquod",
+    "nederlands": "1 ev een (zekere), een of andere 2 mv sommige, enige"
+  },
+  {
+    "latijn": "quidam, quaedam, quoddam",
+    "nederlands": "1 ev een (zekere), een of andere2 mv sommige, enige"
+  },
+  {
+    "latijn": "quisque, quaeque, quodque",
+    "nederlands": "1 iedere 2 elke"
+  },
+  {
+    "latijn": "(non) quicquam",
+    "nederlands": "(n)iets"
+  },
+  {
+    "latijn": "(non) quisquam",
+    "nederlands": "(n)iemand"
+  },
+  {
+    "latijn": "apparēre",
+    "nederlands": "1 verschijnen 2 duidelijk zijn"
+  },
+  {
+    "latijn": "augēre",
+    "nederlands": "vergroten, vermeerderen"
+  },
+  {
+    "latijn": "continēre",
+    "nederlands": "1 bijeenhouden 2 bevatten"
+  },
+  {
+    "latijn": "instituere",
+    "nederlands": "oprichten"
+  },
+  {
+    "latijn": "pergere",
+    "nederlands": "doorgaan"
+  },
+  {
+    "latijn": "studēre (+ dat)",
+    "nederlands": "zijn best doen (voor)"
+  },
+  {
+    "latijn": "adfui",
+    "nederlands": "pf van adesse"
+  },
+  {
+    "latijn": "decrevi",
+    "nederlands": "pf van decernere"
+  },
+  {
+    "latijn": "discessi",
+    "nederlands": "pf van discedere"
+  },
+  {
+    "latijn": "perrexi",
+    "nederlands": "pf van pergere"
+  },
+  {
+    "latijn": "acceptus",
+    "nederlands": "ppp van accipere"
+  },
+  {
+    "latijn": "cultus 4",
+    "nederlands": "1 verzorging, beschaving 2 verering"
+  },
+  {
+    "latijn": "ingenium",
+    "nederlands": "1 karakter 2 aanleg"
+  },
+  {
+    "latijn": "oriens, gen orientis",
+    "nederlands": "het oosten"
+  },
+  {
+    "latijn": "provincia",
+    "nederlands": "provincie, ambtsgebied"
+  },
+  {
+    "latijn": "saeculum",
+    "nederlands": "tijdperk, eeuw"
+  },
+  {
+    "latijn": "potens, potent-",
+    "nederlands": "machtig"
+  },
+  {
+    "latijn": "an in vraag",
+    "nederlands": "of"
+  },
+  {
+    "latijn": "igitur",
+    "nederlands": "dus"
+  },
+  {
+    "latijn": "utique",
+    "nederlands": "hoe dan ook"
+  },
+  {
+    "latijn": "qualis, -e 1",
+    "nederlands": "hoedanig 2 zodanig als"
+  },
+  {
+    "latijn": "ullus, -a, -um",
+    "nederlands": "enige, een of andere"
+  },
+  {
+    "latijn": "consulere",
+    "nederlands": "1 beraadslagen 2 + acc raadplegen"
+  },
+  {
+    "latijn": "convertere",
+    "nederlands": "(om)draaien"
+  },
+  {
+    "latijn": "delectare",
+    "nederlands": "blij maken"
+  },
+  {
+    "latijn": "mandare",
+    "nederlands": "opdragen"
+  },
+  {
+    "latijn": "prohibēre (+ inf)",
+    "nederlands": "verhinderen (om)"
+  },
+  {
+    "latijn": "statuere",
+    "nederlands": "besluiten"
+  },
+  {
+    "latijn": "suadēre",
+    "nederlands": "aanraden, adviseren"
+  },
+  {
+    "latijn": "turbare",
+    "nederlands": "verstoren"
+  },
+  {
+    "latijn": "converti",
+    "nederlands": "pf van convertere"
+  },
+  {
+    "latijn": "statui",
+    "nederlands": "pf van statuere"
+  },
+  {
+    "latijn": "suasi",
+    "nederlands": "pf van suadēre"
+  },
+  {
+    "latijn": "consultus",
+    "nederlands": "ppp van consulere"
+  },
+  {
+    "latijn": "pressus",
+    "nederlands": "ppp van premere"
+  },
+  {
+    "latijn": "periturus",
+    "nederlands": "pfa van perire"
+  },
+  {
+    "latijn": "conspectus 4",
+    "nederlands": "aanblik"
+  },
+  {
+    "latijn": "legatus",
+    "nederlands": "1 gezant 2 onderbevelhebber"
+  },
+  {
+    "latijn": "pons, pontes",
+    "nederlands": "brug"
+  },
+  {
+    "latijn": "quies, gen quietis",
+    "nederlands": "rust"
+  },
+  {
+    "latijn": "sedes, sedes",
+    "nederlands": "1 zitplaats 2 woonplaats"
+  },
+  {
+    "latijn": "vates, vates",
+    "nederlands": "1 waarzegger 2 zanger"
+  },
+  {
+    "latijn": "aureus, -a, -um",
+    "nederlands": "1 gouden 2 van goud"
+  },
+  {
+    "latijn": "extra",
+    "nederlands": "1 + acc buiten 2 bijw buiten"
+  },
+  {
+    "latijn": "oportet",
+    "nederlands": "het behoort"
+  },
+  {
+    "latijn": "conari",
+    "nederlands": "proberen"
+  },
+  {
+    "latijn": "fiere",
+    "nederlands": "1 (gemaakt) worden 2 gebeuren"
+  },
+  {
+    "latijn": "fungi + abl",
+    "nederlands": "verrichten, vervullen"
+  },
+  {
+    "latijn": "hortari",
+    "nederlands": "aansporen"
+  },
+  {
+    "latijn": "loqui",
+    "nederlands": "spreken"
+  },
+  {
+    "latijn": "mirari",
+    "nederlands": "1 zich verwonderen 2 bewonderen"
+  },
+  {
+    "latijn": "mori, morior",
+    "nederlands": "sterven"
+  },
+  {
+    "latijn": "oriri",
+    "nederlands": "ontstaan, opgaan"
+  },
+  {
+    "latijn": "pati, patior",
+    "nederlands": "1 lijden, doorstaan 2 toestaan"
+  },
+  {
+    "latijn": "proficisci",
+    "nederlands": "vertrekken"
+  },
+  {
+    "latijn": "reri",
+    "nederlands": "menen"
+  },
+  {
+    "latijn": "scribere",
+    "nederlands": "schrijven"
+  },
+  {
+    "latijn": "spargere",
+    "nederlands": "1 strooien 2 verspreiden"
+  },
+  {
+    "latijn": "uti + abl",
+    "nederlands": "gebruiken"
+  },
+  {
+    "latijn": "vereri",
+    "nederlands": "vrezen"
+  },
+  {
+    "latijn": "videri",
+    "nederlands": "schijnen, lijken"
+  },
+  {
+    "latijn": "locutus sum",
+    "nederlands": "pf van loqui"
+  },
+  {
+    "latijn": "ortus sum",
+    "nederlands": "pf van oriri"
+  },
+  {
+    "latijn": "passus sum",
+    "nederlands": "pf van pati"
+  },
+  {
+    "latijn": "profectus sum",
+    "nederlands": "pf van profisci"
+  },
+  {
+    "latijn": "ratus sum",
+    "nederlands": "pf van reri"
+  },
+  {
+    "latijn": "scripsi",
+    "nederlands": "pf van scribere"
+  },
+  {
+    "latijn": "sparsus",
+    "nederlands": "ppp van spargere"
+  },
+  {
+    "latijn": "ventus",
+    "nederlands": "wind"
+  },
+  {
+    "latijn": "epistula",
+    "nederlands": "brief"
+  },
+  {
+    "latijn": "aggredi, aggredior",
+    "nederlands": "1 aanvallen 2 beginnen (aan)"
+  },
+  {
+    "latijn": "frui + abl",
+    "nederlands": "genieten van"
+  },
+  {
+    "latijn": "morari",
+    "nederlands": "1 verblijven 2 + acc vertragen"
+  },
+  {
+    "latijn": "oblivisci",
+    "nederlands": "vergeten"
+  },
+  {
+    "latijn": "pertinēre",
+    "nederlands": "ad + acc 1 zich uitstrekken over 2 betrekking hebben op"
+  },
+  {
+    "latijn": "queri (+ acc)",
+    "nederlands": "klagen (over)"
+  },
+  {
+    "latijn": "solēre",
+    "nederlands": "gewend zijn, gewoon zijn"
+  },
+  {
+    "latijn": "tueri",
+    "nederlands": "1 bekijken, onderzoeken 2 beschermen"
+  },
+  {
+    "latijn": "aggressus sum",
+    "nederlands": "pf van aggredi"
+  },
+  {
+    "latijn": "oblitus sum",
+    "nederlands": "pf van oblivisci"
+  },
+  {
+    "latijn": "questus sum",
+    "nederlands": "pf van queri"
+  },
+  {
+    "latijn": "usus sum",
+    "nederlands": "pf van uti"
+  },
+  {
+    "latijn": "amissus",
+    "nederlands": "ppp van amittere"
+  },
+  {
+    "latijn": "rutus",
+    "nederlands": "ppp van ruere"
+  },
+  {
+    "latijn": "scriptus",
+    "nederlands": "ppp van scribere"
+  },
+  {
+    "latijn": "fons, fontes",
+    "nederlands": "bron"
+  },
+  {
+    "latijn": "lapis, lapides",
+    "nederlands": "steen(soort)"
+  },
+  {
+    "latijn": "varius, -a, -um",
+    "nederlands": "1 verschillend 2 afwisselend"
+  },
+  {
+    "latijn": "quietus, -a, -um",
+    "nederlands": "rustig"
+  },
+  {
+    "latijn": "potius",
+    "nederlands": "1 liever 2 eerder"
+  },
+  {
+    "latijn": "alii ... alii mv",
+    "nederlands": "sommige(n) ... andere(n)"
+  },
+  {
+    "latijn": "adhibēre",
+    "nederlands": "toepassen, gebruiken"
+  },
+  {
+    "latijn": "complecti",
+    "nederlands": "omarmen"
+  },
+  {
+    "latijn": "egredi, egredior",
+    "nederlands": "weggaan"
+  },
+  {
+    "latijn": "ignoscere + dat",
+    "nederlands": "vergeven"
+  },
+  {
+    "latijn": "prohibēre",
+    "nederlands": "1 (a/ab) + abl afhouden van 2 + inf verhinderen"
+  },
+  {
+    "latijn": "rumpere",
+    "nederlands": "breken"
+  },
+  {
+    "latijn": "sequi",
+    "nederlands": "volgen"
+  },
+  {
+    "latijn": "vehere",
+    "nederlands": "1 *act* vervoeren 2 *pas* reizen"
+  },
+  {
+    "latijn": "complexus sum",
+    "nederlands": "pf van complecti"
+  },
+  {
+    "latijn": "mansi",
+    "nederlands": "pf van manēre"
+  },
+  {
+    "latijn": "secutus sum",
+    "nederlands": "pf van sequi"
+  },
+  {
+    "latijn": "egressus sum",
+    "nederlands": "pf van egredi"
+  },
+  {
+    "latijn": "mortuus sum",
+    "nederlands": "pf van mori"
+  },
+  {
+    "latijn": "solutus",
+    "nederlands": "ppp van solvere"
+  },
+  {
+    "latijn": "relictus",
+    "nederlands": "ppp van relinquere"
+  },
+  {
+    "latijn": "victus",
+    "nederlands": "ppp van vincere"
+  },
+  {
+    "latijn": "avus",
+    "nederlands": "grootvader"
+  },
+  {
+    "latijn": "coniunx, coniuges",
+    "nederlands": "1 m echtgenoot 2 v echtgenote"
+  },
+  {
+    "latijn": "currus 4",
+    "nederlands": "wagen"
+  },
+  {
+    "latijn": "lacrima",
+    "nederlands": "traan"
+  },
+  {
+    "latijn": "lex, leges",
+    "nederlands": "wet"
+  },
+  {
+    "latijn": "necessitas, -tates",
+    "nederlands": "noodzaak"
+  },
+  {
+    "latijn": "praeceptum",
+    "nederlands": "voorschrift"
+  },
+  {
+    "latijn": "usus 4",
+    "nederlands": "1 gebruik 2 nut"
+  },
+  {
+    "latijn": "cingere",
+    "nederlands": "omringen"
+  },
+  {
+    "latijn": "furere",
+    "nederlands": "tekeer gaan"
+  },
+  {
+    "latijn": "latēre",
+    "nederlands": "verborgen zijn"
+  },
+  {
+    "latijn": "reddere",
+    "nederlands": "teruggeven"
+  },
+  {
+    "latijn": "reperire",
+    "nederlands": "vinden, ontdekken"
+  },
+  {
+    "latijn": "sternere",
+    "nederlands": "1 neergooien 2 bedekken"
+  },
+  {
+    "latijn": "rettuli",
+    "nederlands": "pf van referre"
+  },
+  {
+    "latijn": "repperi",
+    "nederlands": "pf van reperire"
+  },
+  {
+    "latijn": "redditus",
+    "nederlands": "ppp van reddere"
+  },
+  {
+    "latijn": "repertus",
+    "nederlands": "ppp van reperire"
+  },
+  {
+    "latijn": "aestus 4",
+    "nederlands": "1 hitte 2 branding"
+  },
+  {
+    "latijn": "classis, classes",
+    "nederlands": "vloot"
+  },
+  {
+    "latijn": "fluctus 4",
+    "nederlands": "golf"
+  },
+  {
+    "latijn": "hiems, hiemes",
+    "nederlands": "winter"
+  },
+  {
+    "latijn": "navis, naves",
+    "nederlands": "schip"
+  },
+  {
+    "latijn": "oceanus",
+    "nederlands": "oceaan, zee"
+  },
+  {
+    "latijn": "pectus, pectora",
+    "nederlands": "borst"
+  },
+  {
+    "latijn": "signum",
+    "nederlands": "1 teken 2 veldteken"
+  },
+  {
+    "latijn": "unda",
+    "nederlands": "golf"
+  },
+  {
+    "latijn": "incertus, -a, -um",
+    "nederlands": "onzeker"
+  },
+  {
+    "latijn": "modo ... modo",
+    "nederlands": "nu eens ... dan weer"
+  },
+  {
+    "latijn": "undique",
+    "nederlands": "van alle kanten"
+  },
+  {
+    "latijn": "vale, mv valete",
+    "nederlands": "1 gegroet 2 vaarwel"
+  },
+  {
+    "latijn": "adducere",
+    "nederlands": "brengen (naar)"
+  },
+  {
+    "latijn": "adipisci",
+    "nederlands": "verkrijgen"
+  },
+  {
+    "latijn": "committere",
+    "nederlands": "1 toevertrouwen 2 *scelus* begaan 3 *proelium* aangaan"
+  },
+  {
+    "latijn": "imperare",
+    "nederlands": "bevelen, opdragen"
+  },
+  {
+    "latijn": "poscere",
+    "nederlands": "(op)eisen"
+  },
+  {
+    "latijn": "potiri + abl",
+    "nederlands": "zich meester maken van"
+  },
+  {
+    "latijn": "desii",
+    "nederlands": "pf van desinere"
+  },
+  {
+    "latijn": "obsedi",
+    "nederlands": "pf van obsidēre"
+  },
+  {
+    "latijn": "profui",
+    "nederlands": "pf van prodesse"
+  },
+  {
+    "latijn": "fractus",
+    "nederlands": "ppp van frangere"
+  },
+  {
+    "latijn": "factus",
+    "nederlands": "ppp van facere"
+  },
+  {
+    "latijn": "inventus",
+    "nederlands": "ppp van invenire"
+  },
+  {
+    "latijn": "futurum",
+    "nederlands": "pfa van esse"
+  },
+  {
+    "latijn": "cohors, cohortes",
+    "nederlands": "cohort"
+  },
+  {
+    "latijn": "condicio, -ones",
+    "nederlands": "1 voorwaarde 2 toestand"
+  },
+  {
+    "latijn": "exilium",
+    "nederlands": "verbanning, ballingschap"
+  },
+  {
+    "latijn": "facinus, facinora",
+    "nederlands": "1 daad 2 misdaad"
+  },
+  {
+    "latijn": "militia",
+    "nederlands": "krijgsdienst"
+  },
+  {
+    "latijn": "ripa",
+    "nederlands": "oever"
+  },
+  {
+    "latijn": "scelus, scelera",
+    "nederlands": "misdaad"
+  },
+  {
+    "latijn": "alienus, -a, -um",
+    "nederlands": "vreemd, van een ander"
+  },
+  {
+    "latijn": "proprius, -a, -um",
+    "nederlands": "eigen"
+  },
+  {
+    "latijn": "causa gen +",
+    "nederlands": "wegens"
+  },
+  {
+    "latijn": "ac",
+    "nederlands": "en"
+  },
+  {
+    "latijn": "uterque, utraque, utrumque",
+    "nederlands": "elk van beide"
+  },
+  {
+    "latijn": "auferre",
+    "nederlands": "1 wegnemen 2 *se* zich verwijderen"
+  },
+  {
+    "latijn": "detrahere",
+    "nederlands": "wegnemen, afrukken"
+  },
+  {
+    "latijn": "errare",
+    "nederlands": "1 zwerven 2 zich vergissen"
+  },
+  {
+    "latijn": "exigere",
+    "nederlands": "1 verdrijven 2 (op)eisen"
+  },
+  {
+    "latijn": "expellere",
+    "nederlands": "verdrijven"
+  },
+  {
+    "latijn": "fallere",
+    "nederlands": "1 bedriegen 2 ontgaan"
+  },
+  {
+    "latijn": "parere, pario",
+    "nederlands": "1 verwerven 2 voortbrengen"
+  },
+  {
+    "latijn": "tegere",
+    "nederlands": "bedekken"
+  },
+  {
+    "latijn": "abstuli",
+    "nederlands": "pf van auferre"
+  },
+  {
+    "latijn": "expuli",
+    "nederlands": "pf van expellere"
+  },
+  {
+    "latijn": "fefelli",
+    "nederlands": "pf van fallere"
+  },
+  {
+    "latijn": "nolui",
+    "nederlands": "pf van nolle"
+  },
+  {
+    "latijn": "peperi",
+    "nederlands": "pf van parere"
+  },
+  {
+    "latijn": "receptus",
+    "nederlands": "pf van recipere"
+  },
+  {
+    "latijn": "sedi",
+    "nederlands": "pf van sedēre"
+  },
+  {
+    "latijn": "exegi",
+    "nederlands": "pf van exigere"
+  },
+  {
+    "latijn": "detractus",
+    "nederlands": "ppp van detrahere"
+  },
+  {
+    "latijn": "expulsus",
+    "nederlands": "ppp van expellere"
+  },
+  {
+    "latijn": "positus",
+    "nederlands": "ppp van ponere"
+  },
+  {
+    "latijn": "insula",
+    "nederlands": "eiland"
+  },
+  {
+    "latijn": "modus",
+    "nederlands": "1 manier 2 maat"
+  },
+  {
+    "latijn": "negotium",
+    "nederlands": "bezigheid, zaak"
+  },
+  {
+    "latijn": "semel",
+    "nederlands": "eenmaal"
+  },
+  {
+    "latijn": "appropinquare + dat",
+    "nederlands": "naderen"
+  },
+  {
+    "latijn": "consistere",
+    "nederlands": "blijven staan"
+  },
+  {
+    "latijn": "ire",
+    "nederlands": "gaan"
+  },
+  {
+    "latijn": "negare",
+    "nederlands": "1 ontkennen 2 weigeren"
+  },
+  {
+    "latijn": "scire",
+    "nederlands": "weten"
+  },
+  {
+    "latijn": "terrēre",
+    "nederlands": "bang maken"
+  },
+  {
+    "latijn": "vertere",
+    "nederlands": "keren, wenden"
+  },
+  {
+    "latijn": "vitare",
+    "nederlands": "vermijden"
+  },
+  {
+    "latijn": "causa",
+    "nederlands": "reden"
+  },
+  {
+    "latijn": "hora",
+    "nederlands": "uur"
+  },
+  {
+    "latijn": "verbum",
+    "nederlands": "woord"
+  },
+  {
+    "latijn": "victor, victores",
+    "nederlands": "(over)winnaar"
+  },
+  {
+    "latijn": "contra + acc",
+    "nederlands": "tegen(over)"
+  },
+  {
+    "latijn": "sine",
+    "nederlands": "+ abl zonder"
+  },
+  {
+    "latijn": "adhuc",
+    "nederlands": "nog, tot nu toe"
+  },
+  {
+    "latijn": "antea",
+    "nederlands": "eerder"
+  },
+  {
+    "latijn": "centum",
+    "nederlands": "honderd"
+  },
+  {
+    "latijn": "domum",
+    "nederlands": "naar huis"
+  },
+  {
+    "latijn": "id nom/acc",
+    "nederlands": "dit"
+  },
+  {
+    "latijn": "nondum",
+    "nederlands": "nog niet"
+  },
+  {
+    "latijn": "nunc",
+    "nederlands": "nu"
+  },
+  {
+    "latijn": "quidem ... sed",
+    "nederlands": "wel(iswaar) ... maar"
+  },
+  {
+    "latijn": "tunc",
+    "nederlands": "toen, dan"
+  },
+  {
+    "latijn": "cedere",
+    "nederlands": "1 (aan de kant) gaan 2 toegeven"
+  },
+  {
+    "latijn": "ducere",
+    "nederlands": "leiden, brengen"
+  },
+  {
+    "latijn": "parare",
+    "nederlands": "klaarmaken"
+  },
+  {
+    "latijn": "regere",
+    "nederlands": "besturen, leiden"
+  },
+  {
+    "latijn": "tangere",
+    "nederlands": "aanraken"
+  },
+  {
+    "latijn": "cecidi",
+    "nederlands": "pf van cadere"
+  },
+  {
+    "latijn": "constiti",
+    "nederlands": "pf van consistere"
+  },
+  {
+    "latijn": "dixi",
+    "nederlands": "pf van dicere"
+  },
+  {
+    "latijn": "duxi",
+    "nederlands": "pf van ducere"
+  },
+  {
+    "latijn": "feci",
+    "nederlands": "pf van facere"
+  },
+  {
+    "latijn": "fui",
+    "nederlands": "pf van esse"
+  },
+  {
+    "latijn": "incepi",
+    "nederlands": "pf van incipere"
+  },
+  {
+    "latijn": "potui",
+    "nederlands": "pf van posse"
+  },
+  {
+    "latijn": "respondi",
+    "nederlands": "pf van respondēre"
+  },
+  {
+    "latijn": "rexi",
+    "nederlands": "pf van regere"
+  },
+  {
+    "latijn": "risi",
+    "nederlands": "pf van ridēre"
+  },
+  {
+    "latijn": "tetigi",
+    "nederlands": "pf van tangere"
+  },
+  {
+    "latijn": "veni",
+    "nederlands": "pf van venire"
+  },
+  {
+    "latijn": "vici",
+    "nederlands": "pf van vincere"
+  },
+  {
+    "latijn": "certamen, certamina",
+    "nederlands": "wedstrijd"
+  },
+  {
+    "latijn": "iniura",
+    "nederlands": "onrecht"
+  },
+  {
+    "latijn": "heri",
+    "nederlands": "gisteren"
+  },
+  {
+    "latijn": "postquam + pf",
+    "nederlands": "nadat"
+  },
+  {
+    "latijn": "saepe",
+    "nederlands": "vaak"
+  },
+  {
+    "latijn": "satis",
+    "nederlands": "genoeg"
+  },
+  {
+    "latijn": "capere, capio",
+    "nederlands": "pakken, nemen"
+  },
+  {
+    "latijn": "credere",
+    "nederlands": "geloven"
+  },
+  {
+    "latijn": "habitare",
+    "nederlands": "(be)wonen"
+  },
+  {
+    "latijn": "cucurri",
+    "nederlands": "pf van currere"
+  },
+  {
+    "latijn": "dedi",
+    "nederlands": "pf van dare"
+  },
+  {
+    "latijn": "fugi",
+    "nederlands": "pf van fugere"
+  },
+  {
+    "latijn": "ostendi",
+    "nederlands": "pf van ostendere"
+  },
+  {
+    "latijn": "posui",
+    "nederlands": "pf van ponere"
+  },
+  {
+    "latijn": "sustuli",
+    "nederlands": "pf van tollere"
+  },
+  {
+    "latijn": "vidi",
+    "nederlands": "pf van vidēre"
+  },
+  {
+    "latijn": "vixi",
+    "nederlands": "pf van vivere"
+  },
+  {
+    "latijn": "aedificium",
+    "nederlands": "gebouw"
+  },
+  {
+    "latijn": "dominus",
+    "nederlands": "meester, heer des huizes"
+  },
+  {
+    "latijn": "domus",
+    "nederlands": "huis"
+  },
+  {
+    "latijn": "exemplum",
+    "nederlands": "voorbeeld"
+  },
+  {
+    "latijn": "fabula",
+    "nederlands": "verhaal"
+  },
+  {
+    "latijn": "hospes, hospites",
+    "nederlands": "gast"
+  },
+  {
+    "latijn": "iter, itinera",
+    "nederlands": "reis"
+  },
+  {
+    "latijn": "senex, senes",
+    "nederlands": "oude man"
+  },
+  {
+    "latijn": "sermo, sermones",
+    "nederlands": "gesprek"
+  },
+  {
+    "latijn": "apud + acc",
+    "nederlands": "bij"
+  },
+  {
+    "latijn": "trans + acc",
+    "nederlands": "over, aan de overzijde van"
+  },
+  {
+    "latijn": "priusquam",
+    "nederlands": "voordat"
+  },
+  {
+    "latijn": "quondam",
+    "nederlands": "eens, ooit"
+  },
+  {
+    "latijn": "Romam",
+    "nederlands": "naar Rome"
+  },
+  {
+    "latijn": "amittere",
+    "nederlands": "verliezen"
+  },
+  {
+    "latijn": "amisi",
+    "nederlands": "pf van amittere"
+  },
+  {
+    "latijn": "amor, amores",
+    "nederlands": "liefde"
+  },
+  {
+    "latijn": "consilium",
+    "nederlands": "1 plan 2 besluit"
+  },
+  {
+    "latijn": "liberi mv",
+    "nederlands": "kinderen"
+  },
+  {
+    "latijn": "maritus",
+    "nederlands": "echtgenoot"
+  },
+  {
+    "latijn": "matrona",
+    "nederlands": "matrona, vrouw des huizes"
+  },
+  {
+    "latijn": "mors, mortes",
+    "nederlands": "(de) dood"
+  },
+  {
+    "latijn": "tempus, tempora",
+    "nederlands": "tijd, periode"
+  },
+  {
+    "latijn": "bonus, -a, -um",
+    "nederlands": "goed"
+  },
+  {
+    "latijn": "carus, -a, -um",
+    "nederlands": "geliefd"
+  },
+  {
+    "latijn": "contentus, -a, -um (+ abl)",
+    "nederlands": "tevreden (met)"
+  },
+  {
+    "latijn": "laetus, -a, -um",
+    "nederlands": "blij"
+  },
+  {
+    "latijn": "longus, -a, -um",
+    "nederlands": "lang"
+  },
+  {
+    "latijn": "magnus, -a, -um",
+    "nederlands": "groot"
+  },
+  {
+    "latijn": "miser, -sera, -serum",
+    "nederlands": "ongelukkig"
+  },
+  {
+    "latijn": "multus, -a, -um",
+    "nederlands": "veel"
+  },
+  {
+    "latijn": "novus, -a, -um",
+    "nederlands": "nieuw"
+  },
+  {
+    "latijn": "parvus, -a, -um",
+    "nederlands": "klein"
+  },
+  {
+    "latijn": "pulcher, -chra, -chrum",
+    "nederlands": "mooi"
+  },
+  {
+    "latijn": "Romanus (-a, -um)",
+    "nederlands": "1 bnw Romeins 2 znw Romein"
+  },
+  {
+    "latijn": "unus, -a, -um",
+    "nederlands": "één"
+  },
+  {
+    "latijn": "meus, -a, -um",
+    "nederlands": "mijn, van mij"
+  },
+  {
+    "latijn": "tuus, -a, -um",
+    "nederlands": "jouw, uw"
+  },
+  {
+    "latijn": "suus, -a, -um",
+    "nederlands": "1 zijn (eigen) 2 haar (eigen) 3 hun (eigen)"
+  },
+  {
+    "latijn": "noster, -stra, -strum",
+    "nederlands": "ons, onze"
+  },
+  {
+    "latijn": "vester, -stra, -strum",
+    "nederlands": "jullie, van jullie"
+  },
+  {
+    "latijn": "adesse",
+    "nederlands": "aanwezig zijn (bij)"
+  },
+  {
+    "latijn": "desinere",
+    "nederlands": "ophouden"
+  },
+  {
+    "latijn": "invitare",
+    "nederlands": "uitnodigen"
+  },
+  {
+    "latijn": "accessi",
+    "nederlands": "pf van accedere"
+  },
+  {
+    "latijn": "protexi",
+    "nederlands": "pf van protegere"
+  },
+  {
+    "latijn": "tradidi",
+    "nederlands": "pf van tradere"
+  },
+  {
+    "latijn": "cena",
+    "nederlands": "maaltijd"
+  },
+  {
+    "latijn": "familia",
+    "nederlands": "1 huishouden 2 familie"
+  },
+  {
+    "latijn": "gaudium",
+    "nederlands": "vreugde"
+  },
+  {
+    "latijn": "parentes",
+    "nederlands": "ouders"
+  },
+  {
+    "latijn": "vox, voces",
+    "nederlands": "1 stem 2 uitspraak"
+  },
+  {
+    "latijn": "brevis, -e",
+    "nederlands": "kort"
+  },
+  {
+    "latijn": "communis, -e",
+    "nederlands": "gemeenschappelijk"
+  },
+  {
+    "latijn": "dulcis, -e",
+    "nederlands": "1 zoet 2 lief"
+  },
+  {
+    "latijn": "fortis, -e",
+    "nederlands": "1 dapper 2 sterk"
+  },
+  {
+    "latijn": "illustris, -e",
+    "nederlands": "aanzienlijk, beroemd"
+  },
+  {
+    "latijn": "ingens, ingent-",
+    "nederlands": "enorm, geweldig"
+  },
+  {
+    "latijn": "omnes mv m/v",
+    "nederlands": "1 bnw alle 2 znw allen"
+  },
+  {
+    "latijn": "omnia mv o",
+    "nederlands": "1 bnw alle 2 znw alles"
+  },
+  {
+    "latijn": "omnis, -e ev",
+    "nederlands": "1 ieder, elk 2 (ge)heel"
+  },
+  {
+    "latijn": "optimus, -a, -um",
+    "nederlands": "best, zeer goed"
+  },
+  {
+    "latijn": "similis, -e",
+    "nederlands": "gelijk"
+  },
+  {
+    "latijn": "ergo",
+    "nederlands": "dus, dan"
+  },
+  {
+    "latijn": "non iam",
+    "nederlands": "niet meer"
+  },
+  {
+    "latijn": "postea",
+    "nederlands": "later"
+  },
+  {
+    "latijn": "accendere",
+    "nederlands": "aansteken, ontsteken"
+  },
+  {
+    "latijn": "apparēre",
+    "nederlands": "verschijnen"
+  },
+  {
+    "latijn": "carēre + abl",
+    "nederlands": "missen"
+  },
+  {
+    "latijn": "exire",
+    "nederlands": "naar buiten gaan"
+  },
+  {
+    "latijn": "invenire",
+    "nederlands": "vinden"
+  },
+  {
+    "latijn": "quaerere",
+    "nederlands": "1 zoeken 2 vragen"
+  },
+  {
+    "latijn": "accendi",
+    "nederlands": "pf van accendere"
+  },
+  {
+    "latijn": "exii",
+    "nederlands": "pf van exire"
+  },
+  {
+    "latijn": "ii",
+    "nederlands": "pf van ire"
+  },
+  {
+    "latijn": "inveni",
+    "nederlands": "pf van invenire"
+  },
+  {
+    "latijn": "processi",
+    "nederlands": "pf van procedere"
+  },
+  {
+    "latijn": "funus, funera",
+    "nederlands": "begrafenis"
+  },
+  {
+    "latijn": "vestis, vestes",
+    "nederlands": "kleding(stuk)"
+  },
+  {
+    "latijn": "umbra",
+    "nederlands": "1 schaduw 2 schim (van een overledene)"
+  },
+  {
+    "latijn": "acer, acris, acre",
+    "nederlands": "scherp, fel"
+  },
+  {
+    "latijn": "celer, celeris, celere",
+    "nederlands": "snel"
+  },
+  {
+    "latijn": "felix, felic-",
+    "nederlands": "gelukkig"
+  },
+  {
+    "latijn": "iratus, -a, -um",
+    "nederlands": "boos"
+  },
+  {
+    "latijn": "lenis, -e",
+    "nederlands": "mild, zacht"
+  },
+  {
+    "latijn": "malus, -a, -um",
+    "nederlands": "slecht"
+  },
+  {
+    "latijn": "nudus, -a, -um",
+    "nederlands": "naakt, bloot"
+  },
+  {
+    "latijn": "secundus, -a, -um",
+    "nederlands": "tweede"
+  },
+  {
+    "latijn": "timidus, -a, -um",
+    "nederlands": "angstig, timide"
+  },
+  {
+    "latijn": "tristis, -e",
+    "nederlands": "droevig, somber"
+  },
+  {
+    "latijn": "bene bijw",
+    "nederlands": "goed"
+  },
+  {
+    "latijn": "etiam",
+    "nederlands": "zelfs"
+  },
+  {
+    "latijn": "magnopere",
+    "nederlands": "1 zeer 2 erg"
+  },
+  {
+    "latijn": "paulum",
+    "nederlands": "een beetje"
+  },
+  {
+    "latijn": "agere",
+    "nederlands": "1 leiden, voeren 2 doen"
+  },
+  {
+    "latijn": "legere",
+    "nederlands": "lezen"
+  },
+  {
+    "latijn": "mittere",
+    "nederlands": "sturen"
+  },
+  {
+    "latijn": "putare",
+    "nederlands": "1 menen 2 vinden, beschouwen als"
+  },
+  {
+    "latijn": "credidi",
+    "nederlands": "pf van credere"
+  },
+  {
+    "latijn": "emi",
+    "nederlands": "pf van emere"
+  },
+  {
+    "latijn": "iussi",
+    "nederlands": "pf van iubēre"
+  },
+  {
+    "latijn": "littera",
+    "nederlands": "letter"
+  },
+  {
+    "latijn": "onus, onera",
+    "nederlands": "last, lading"
+  },
+  {
+    "latijn": "pretium",
+    "nederlands": "prijs"
+  },
+  {
+    "latijn": "ceteri, -ae, -a mv",
+    "nederlands": "(de) andere, overige"
+  },
+  {
+    "latijn": "difficilis, -e",
+    "nederlands": "moeilijk"
+  },
+  {
+    "latijn": "facilis, -e",
+    "nederlands": "gemakkelijk"
+  },
+  {
+    "latijn": "fidus, -a, -um",
+    "nederlands": "1 trouw 2 betrouwbaar"
+  },
+  {
+    "latijn": "gravis, -e",
+    "nederlands": "zwaar, ernstig"
+  },
+  {
+    "latijn": "humilis",
+    "nederlands": "1 laag 2 nederig"
+  },
+  {
+    "latijn": "maior",
+    "nederlands": "groter"
+  },
+  {
+    "latijn": "melior",
+    "nederlands": "beter"
+  },
+  {
+    "latijn": "minimus, -a, -um",
+    "nederlands": "kleinst, zeer klein"
+  },
+  {
+    "latijn": "peior",
+    "nederlands": "slechter"
+  },
+  {
+    "latijn": "magis",
+    "nederlands": "meer"
+  },
+  {
+    "latijn": "minime",
+    "nederlands": "1 (aller)minst 2 helemaal niet"
+  },
+  {
+    "latijn": "multo bijw",
+    "nederlands": "veel"
+  },
+  {
+    "latijn": "quam",
+    "nederlands": "1 com ... dan 2 sup zo ... mogelijk"
+  },
+  {
+    "latijn": "alius, -a, -ud",
+    "nederlands": "ander"
+  },
+  {
+    "latijn": "fugere, fugio",
+    "nederlands": "1 vluchten 2 + acc ontvluchten"
+  },
+  {
+    "latijn": "movēre",
+    "nederlands": "bewegen"
+  },
+  {
+    "latijn": "parcere + dat",
+    "nederlands": "sparen"
+  },
+  {
+    "latijn": "tribuere",
+    "nederlands": "toekennen"
+  },
+  {
+    "latijn": "cepi",
+    "nederlands": "pf van capere"
+  },
+  {
+    "latijn": "peperci",
+    "nederlands": "pf van parcere"
+  },
+  {
+    "latijn": "cibus",
+    "nederlands": "voedsel"
+  },
+  {
+    "latijn": "clamor, clamores",
+    "nederlands": "geschreeuw"
+  },
+  {
+    "latijn": "libertas, libertates",
+    "nederlands": "vrijheid"
+  },
+  {
+    "latijn": "lingua",
+    "nederlands": "1 tong 2 taal"
+  },
+  {
+    "latijn": "silva",
+    "nederlands": "bos"
+  },
+  {
+    "latijn": "vulnus, vulnera",
+    "nederlands": "wond"
+  },
+  {
+    "latijn": "altus, -a, -um",
+    "nederlands": "1 hoog 2 diep"
+  },
+  {
+    "latijn": "audax, audac-",
+    "nederlands": "roekeloos"
+  },
+  {
+    "latijn": "crudelis, -e",
+    "nederlands": "wreed"
+  },
+  {
+    "latijn": "ferox, feroc-",
+    "nederlands": "woest, onstuimig"
+  },
+  {
+    "latijn": "lentus, -a, -um",
+    "nederlands": "traag"
+  },
+  {
+    "latijn": "maximus, -a, -um",
+    "nederlands": "grootst, zeer groot"
+  },
+  {
+    "latijn": "parum",
+    "nederlands": "niet genoeg"
+  },
+  {
+    "latijn": "que",
+    "nederlands": "en"
+  },
+  {
+    "latijn": "quia",
+    "nederlands": "omdat"
+  },
+  {
+    "latijn": "se acc",
+    "nederlands": "zich(zelf)"
+  },
+  {
+    "latijn": "audēre",
+    "nederlands": "durven"
+  },
+  {
+    "latijn": "consituere",
+    "nederlands": "besluiten"
+  },
+  {
+    "latijn": "crescere",
+    "nederlands": "groeien"
+  },
+  {
+    "latijn": "relinquere",
+    "nederlands": "1 verlaten 2 achterlaten"
+  },
+  {
+    "latijn": "redire",
+    "nederlands": "teruggaan"
+  },
+  {
+    "latijn": "constitui",
+    "nederlands": "pf van constituere"
+  },
+  {
+    "latijn": "misi",
+    "nederlands": "pf van mittere"
+  },
+  {
+    "latijn": "reliqui",
+    "nederlands": "pf van relinquere"
+  },
+  {
+    "latijn": "ager, mv agri",
+    "nederlands": "akker"
+  },
+  {
+    "latijn": "consul, consules",
+    "nederlands": "consul"
+  },
+  {
+    "latijn": "fuga",
+    "nederlands": "vlucht"
+  },
+  {
+    "latijn": "legio, legiones v",
+    "nederlands": "legioen"
+  },
+  {
+    "latijn": "litus, litora",
+    "nederlands": "kust"
+  },
+  {
+    "latijn": "mille, milia",
+    "nederlands": "duizend"
+  },
+  {
+    "latijn": "numerus",
+    "nederlands": "aantal"
+  },
+  {
+    "latijn": "minor",
+    "nederlands": "kleiner"
+  },
+  {
+    "latijn": "minus",
+    "nederlands": "minder"
+  },
+  {
+    "latijn": "pauci, -ae, -a mv",
+    "nederlands": "weinig, enkele"
+  },
+  {
+    "latijn": "plurimi, -ae, -a mv",
+    "nederlands": "(de) meeste, zeer vele"
+  },
+  {
+    "latijn": "plus, plures com",
+    "nederlands": "meer"
+  },
+  {
+    "latijn": "cotidie",
+    "nederlands": "dagelijks"
+  },
+  {
+    "latijn": "maxime",
+    "nederlands": "1 het meest 2 vooral"
+  },
+  {
+    "latijn": "neque",
+    "nederlands": "1 en niet, ook niet 2 maar niet"
+  },
+  {
+    "latijn": "Romae",
+    "nederlands": "te Rome, in Rome"
+  },
+  {
+    "latijn": "arcessere",
+    "nederlands": "laten komen"
+  },
+  {
+    "latijn": "coniungere",
+    "nederlands": "verbinden"
+  },
+  {
+    "latijn": "decet + acc",
+    "nederlands": "(het) past bij"
+  },
+  {
+    "latijn": "laudare",
+    "nederlands": "prijzen"
+  },
+  {
+    "latijn": "noscere",
+    "nederlands": "1 te weten komen 2 leren kennen"
+  },
+  {
+    "latijn": "novisse",
+    "nederlands": "1 weten 2 kennen"
+  },
+  {
+    "latijn": "arcessivi",
+    "nederlands": "pf van arcessere"
+  },
+  {
+    "latijn": "novi",
+    "nederlands": "pf van noscere"
+  },
+  {
+    "latijn": "dolus",
+    "nederlands": "list"
+  },
+  {
+    "latijn": "opus, opera",
+    "nederlands": "werk"
+  },
+  {
+    "latijn": "sentientia",
+    "nederlands": "1 mening 2 uitspraak, zin"
+  },
+  {
+    "latijn": "virtus, virtutes",
+    "nederlands": "dapperheid"
+  },
+  {
+    "latijn": "clarus, -a, -um",
+    "nederlands": "1 helder 2 beroemd"
+  },
+  {
+    "latijn": "stultus, -a, -um",
+    "nederlands": "dom"
+  },
+  {
+    "latijn": "#NAME?"
+  },
+  {
+    "latijn": "at",
+    "nederlands": "maar"
+  },
+  {
+    "latijn": "quomodo",
+    "nederlands": "hoe"
+  },
+  {
+    "latijn": "utrum....an",
+    "nederlands": "(of)...of"
+  },
+  {
+    "latijn": "vero",
+    "nederlands": "1 inderdaad 2 echter"
+  },
+  {
+    "latijn": "ipse,",
+    "nederlands": "ipsa, ipsum zelf"
+  },
+  {
+    "latijn": "aspicere, aspicio",
+    "nederlands": "bekijken, aankijken"
+  },
+  {
+    "latijn": "conspicere, conspicio",
+    "nederlands": "zien"
+  },
+  {
+    "latijn": "deficere, dificio",
+    "nederlands": "ontbreken"
+  },
+  {
+    "latijn": "intellegere",
+    "nederlands": "begrijpen"
+  },
+  {
+    "latijn": "iuvat (me)",
+    "nederlands": "het doet (me) plezier"
+  },
+  {
+    "latijn": "laborare",
+    "nederlands": "hard werken"
+  },
+  {
+    "latijn": "possidēre",
+    "nederlands": "bezitten"
+  },
+  {
+    "latijn": "sumere",
+    "nederlands": "nemen"
+  },
+  {
+    "latijn": "aspexi",
+    "nederlands": "pf van aspicere"
+  },
+  {
+    "latijn": "conspexi",
+    "nederlands": "pf van conspicere"
+  },
+  {
+    "latijn": "sumpsi",
+    "nederlands": "pf van sumere"
+  },
+  {
+    "latijn": "verti",
+    "nederlands": "pf van vertere"
+  },
+  {
+    "latijn": "forma",
+    "nederlands": "gestalte, schoonheid"
+  },
+  {
+    "latijn": "mensa",
+    "nederlands": "tafel"
+  },
+  {
+    "latijn": "misericordia",
+    "nederlands": "medelijden"
+  },
+  {
+    "latijn": "serva",
+    "nederlands": "slavin"
+  },
+  {
+    "latijn": "cuncti, -ae, -a mv",
+    "nederlands": "1 bnw alle 2 znw allen, alles"
+  },
+  {
+    "latijn": "dives, divit-",
+    "nederlands": "rijk"
+  },
+  {
+    "latijn": "cum voegwoord",
+    "nederlands": "wanneer, toen"
+  },
+  {
+    "latijn": "libenter",
+    "nederlands": "graag"
+  },
+  {
+    "latijn": "nisi",
+    "nederlands": "als niet"
+  },
+  {
+    "latijn": "praeterea",
+    "nederlands": "bovendien"
+  },
+  {
+    "latijn": "quamquam",
+    "nederlands": "hoewel"
+  },
+  {
+    "latijn": "ut",
+    "nederlands": "1 zoals 2 +pf zodra"
+  },
+  {
+    "latijn": "condere",
+    "nederlands": "1 stichten 2 verbergen"
+  },
+  {
+    "latijn": "dubitare",
+    "nederlands": "aarzelen, twijfelen"
+  },
+  {
+    "latijn": "inquit",
+    "nederlands": "1 hij/zij zegt 2 hij/zij zei"
+  },
+  {
+    "latijn": "mutare",
+    "nederlands": "veranderen"
+  },
+  {
+    "latijn": "punire",
+    "nederlands": "straffen"
+  },
+  {
+    "latijn": "repetere",
+    "nederlands": "herhalen"
+  },
+  {
+    "latijn": "sentire",
+    "nederlands": "1 merken, voelen 2 menen"
+  },
+  {
+    "latijn": "spernere",
+    "nederlands": "afwijzen"
+  },
+  {
+    "latijn": "condidi",
+    "nederlands": "pf van condere"
+  },
+  {
+    "latijn": "cupivi",
+    "nederlands": "pf van cupere"
+  },
+  {
+    "latijn": "movi",
+    "nederlands": "pf van movēre"
+  },
+  {
+    "latijn": "repetivi",
+    "nederlands": "pf van repetere"
+  },
+  {
+    "latijn": "sensi",
+    "nederlands": "pf van sentire"
+  },
+  {
+    "latijn": "sprevi",
+    "nederlands": "pf van spernere"
+  },
+  {
+    "latijn": "dolor, dolores",
+    "nederlands": "pijn, verdriet"
+  },
+  {
+    "latijn": "imago, imagines",
+    "nederlands": "beeld, afbeelding"
+  },
+  {
+    "latijn": "iuvenis, iuvenes",
+    "nederlands": "jongeman"
+  },
+  {
+    "latijn": "superbia",
+    "nederlands": "trots, arrogantie"
+  },
+  {
+    "latijn": "mollis, -e",
+    "nederlands": "zacht"
+  },
+  {
+    "latijn": "ultimus, -a, -um",
+    "nederlands": "laatste, uiterste"
+  },
+  {
+    "latijn": "ob + acc",
+    "nederlands": "wegens"
+  },
+  {
+    "latijn": "donec",
+    "nederlands": "totdat"
+  },
+  {
+    "latijn": "nusquam",
+    "nederlands": "nergens"
+  },
+  {
+    "latijn": "ultro",
+    "nederlands": "uit zichzelf"
+  },
+  {
+    "latijn": "nullus, -a, -um",
+    "nederlands": "geen"
+  },
+  {
+    "latijn": "qui, quae, quod",
+    "nederlands": "1 welke 2 die, dat"
+  },
+  {
+    "latijn": "accidere",
+    "nederlands": "gebeuren"
+  },
+  {
+    "latijn": "canere",
+    "nederlands": "zingen"
+  },
+  {
+    "latijn": "colligere",
+    "nederlands": "verzamelen"
+  },
+  {
+    "latijn": "fundere",
+    "nederlands": "gieten, storten"
+  },
+  {
+    "latijn": "laedere",
+    "nederlands": "beledigen, kwetsen"
+  },
+  {
+    "latijn": "lavare",
+    "nederlands": "wassen"
+  },
+  {
+    "latijn": "perficere, perficio",
+    "nederlands": "voltooien"
+  },
+  {
+    "latijn": "addidi",
+    "nederlands": "pf van addere"
+  },
+  {
+    "latijn": "intellexi",
+    "nederlands": "pf van intellegere"
+  },
+  {
+    "latijn": "laesi",
+    "nederlands": "pf van laedere"
+  },
+  {
+    "latijn": "scii/scivi",
+    "nederlands": "pf van scire"
+  },
+  {
+    "latijn": "vendidi",
+    "nederlands": "pf van vendere"
+  },
+  {
+    "latijn": "carmen, carmina",
+    "nederlands": "lied, gedicht"
+  },
+  {
+    "latijn": "labor, labores",
+    "nederlands": "werk, inspanning"
+  },
+  {
+    "latijn": "certus, -a, -um",
+    "nederlands": "zeker, vast"
+  },
+  {
+    "latijn": "perpetuus, -a, -um",
+    "nederlands": "voortdurend"
+  },
+  {
+    "latijn": "primus, -a, -um",
+    "nederlands": "eerste"
+  },
+  {
+    "latijn": "neque ... neque",
+    "nederlands": "niet ... en ook niet"
+  },
+  {
+    "latijn": "olim",
+    "nederlands": "vroeger, eens"
+  },
+  {
+    "latijn": "plenus (+ gen)",
+    "nederlands": "vol (met)"
+  },
+  {
+    "latijn": "alius ... alius",
+    "nederlands": "de een ... de ander"
+  },
+  {
+    "latijn": "se",
+    "nederlands": "1 zich 2 aci dat hij, dat zij"
+  },
+  {
+    "latijn": "censēre",
+    "nederlands": "van mening zijn"
+  },
+  {
+    "latijn": "committere",
+    "nederlands": "toevertrouwen"
+  },
+  {
+    "latijn": "egēre + abl",
+    "nederlands": "nodig hebben"
+  },
+  {
+    "latijn": "meminisse pf",
+    "nederlands": "1 + aci zich herinneren dat 2 + gen zich (iets) herinneren"
+  },
+  {
+    "latijn": "pervenire",
+    "nederlands": "aankomen"
+  },
+  {
+    "latijn": "praeterire",
+    "nederlands": "voorbijgaan"
+  },
+  {
+    "latijn": "premere",
+    "nederlands": "drukken (op)"
+  },
+  {
+    "latijn": "commisi",
+    "nederlands": "pf van committere"
+  },
+  {
+    "latijn": "egi",
+    "nederlands": "pf van agere"
+  },
+  {
+    "latijn": "perveni",
+    "nederlands": "pf van pervenire"
+  },
+  {
+    "latijn": "praeterii",
+    "nederlands": "pf van praeterire"
+  },
+  {
+    "latijn": "finis, fines",
+    "nederlands": "1 grens, einde 2 mv gebied"
+  },
+  {
+    "latijn": "frumentum",
+    "nederlands": "graan"
+  },
+  {
+    "latijn": "iuventus, gen -tutis",
+    "nederlands": "jeugd"
+  },
+  {
+    "latijn": "officium",
+    "nederlands": "plicht, taak"
+  },
+  {
+    "latijn": "orbis, orbes",
+    "nederlands": "kring, cirkel"
+  },
+  {
+    "latijn": "villa",
+    "nederlands": "landgoed"
+  },
+  {
+    "latijn": "ignotus, -a, -um",
+    "nederlands": "onbekend"
+  },
+  {
+    "latijn": "amplus, -a, -um",
+    "nederlands": "1 ruim, groot 2 belangrijk"
+  },
+  {
+    "latijn": "procul",
+    "nederlands": "ver, in de verte"
+  },
+  {
+    "latijn": "cogere",
+    "nederlands": "1 bijeenbrengen 2 dwingen"
+  },
+  {
+    "latijn": "delēre",
+    "nederlands": "vernielen"
+  },
+  {
+    "latijn": "necesse est",
+    "nederlands": "het is nodig"
+  },
+  {
+    "latijn": "nescire",
+    "nederlands": "niet weten"
+  },
+  {
+    "latijn": "rapere, rapio",
+    "nederlands": "1 roven 2 grijpen"
+  },
+  {
+    "latijn": "ruere",
+    "nederlands": "1 zich haasten 2 neerstorten, instorten"
+  },
+  {
+    "latijn": "tremere",
+    "nederlands": "trillen, beven"
+  },
+  {
+    "latijn": "accidi",
+    "nederlands": "pf van accidere"
+  },
+  {
+    "latijn": "coegi",
+    "nederlands": "pf van cogere"
+  },
+  {
+    "latijn": "perfeci",
+    "nederlands": "pf van perficere"
+  },
+  {
+    "latijn": "rapui",
+    "nederlands": "pf van rapere"
+  },
+  {
+    "latijn": "rui",
+    "nederlands": "pf van ruere"
+  },
+  {
+    "latijn": "Iovis",
+    "nederlands": "gen van Iupiter"
+  },
+  {
+    "latijn": "regio, regiones",
+    "nederlands": "streek, gebied"
+  },
+  {
+    "latijn": "anxius, -a, -um",
+    "nederlands": "angstig, bezorgd"
+  },
+  {
+    "latijn": "frequens, frequent-",
+    "nederlands": "herhaaldelijk"
+  },
+  {
+    "latijn": "nonnulli, -ae, -a mv",
+    "nederlands": "1 bnw sommige 2 znw sommigen"
+  },
+  {
+    "latijn": "vehemens, vehement-",
+    "nederlands": "hevig, krachtig"
+  },
+  {
+    "latijn": "vetus, veter-",
+    "nederlands": "oud"
+  },
+  {
+    "latijn": "post",
+    "nederlands": "1 + acc achter, na 2 bijw later"
+  },
+  {
+    "latijn": "unde",
+    "nederlands": "waarvandaan"
+  },
+  {
+    "latijn": "quisque",
+    "nederlands": "iedereen"
+  },
+  {
+    "latijn": "abire",
+    "nederlands": "weggaan"
+  },
+  {
+    "latijn": "colere",
+    "nederlands": "1 verzorgen 2 bebouwen 3 vereren"
+  },
+  {
+    "latijn": "discere (a/ab +abl)",
+    "nederlands": "leren (van)"
+  },
+  {
+    "latijn": "expugnare",
+    "nederlands": "veroveren"
+  },
+  {
+    "latijn": "frangere",
+    "nederlands": "breken"
+  },
+  {
+    "latijn": "odisse pf",
+    "nederlands": "haten"
+  },
+  {
+    "latijn": "perdere",
+    "nederlands": "vernietigen"
+  },
+  {
+    "latijn": "permittere",
+    "nederlands": "toelaten, toestaan"
+  },
+  {
+    "latijn": "iurare (per + acc)",
+    "nederlands": "zweren (bij)"
+  },
+  {
+    "latijn": "abii",
+    "nederlands": "pf van abire"
+  },
+  {
+    "latijn": "collegi",
+    "nederlands": "pf van colligere"
+  },
+  {
+    "latijn": "didici",
+    "nederlands": "pf van discere"
+  },
+  {
+    "latijn": "fregi",
+    "nederlands": "pf van frangere"
+  },
+  {
+    "latijn": "animus",
+    "nederlands": "geest, aandacht"
+  },
+  {
+    "latijn": "ara",
+    "nederlands": "altaar"
+  },
+  {
+    "latijn": "ars, artes",
+    "nederlands": "vaardigheid, kunst"
+  },
+  {
+    "latijn": "copiae mv",
+    "nederlands": "troepen"
+  },
+  {
+    "latijn": "divitiae mv",
+    "nederlands": "rijkdom"
+  },
+  {
+    "latijn": "mare, maria",
+    "nederlands": "zee"
+  },
+  {
+    "latijn": "mari",
+    "nederlands": "abl van mare"
+  },
+  {
+    "latijn": "patria",
+    "nederlands": "vaderland"
+  },
+  {
+    "latijn": "senator, senatores",
+    "nederlands": "senator"
+  },
+  {
+    "latijn": "militaris, -e",
+    "nederlands": "van de soldaat, militair"
+  },
+  {
+    "latijn": "umquam",
+    "nederlands": "ooit"
+  },
+  {
+    "latijn": "accipere, accipio",
+    "nederlands": "ontvangen, aannemen"
+  },
+  {
+    "latijn": "aperire",
+    "nederlands": "openen"
+  },
+  {
+    "latijn": "convenire",
+    "nederlands": "bijeenkomen"
+  },
+  {
+    "latijn": "defendere",
+    "nederlands": "verdedigen"
+  },
+  {
+    "latijn": "dolēre",
+    "nederlands": "treuren, pijn hebben"
+  },
+  {
+    "latijn": "habēre",
+    "nederlands": "1 hebben 2 houden"
+  },
+  {
+    "latijn": "intendere",
+    "nederlands": "richten"
+  },
+  {
+    "latijn": "accepi",
+    "nederlands": "pf van accipere"
+  },
+  {
+    "latijn": "conveni",
+    "nederlands": "pf van convenire"
+  },
+  {
+    "latijn": "castra mv",
+    "nederlands": "legerkamp"
+  },
+  {
+    "latijn": "clades, clades",
+    "nederlands": "nederlaag"
+  },
+  {
+    "latijn": "curia",
+    "nederlands": "senaatsgebouw"
+  },
+  {
+    "latijn": "moenia mv",
+    "nederlands": "(stads)muren"
+  },
+  {
+    "latijn": "multitudo, -tudines",
+    "nederlands": "menigte, massa"
+  },
+  {
+    "latijn": "nuntius",
+    "nederlands": "1 bode2 bericht"
+  },
+  {
+    "latijn": "porta",
+    "nederlands": "poort"
+  },
+  {
+    "latijn": "mortuus (-a, -um)",
+    "nederlands": "1 bnw gestorven 2 znw dode"
+  },
+  {
+    "latijn": "privatus, -a, -um",
+    "nederlands": "persoonlijk"
+  },
+  {
+    "latijn": "publicus, -a, -um",
+    "nederlands": "openbaar"
+  },
+  {
+    "latijn": "tutus",
+    "nederlands": "veilig"
+  },
+  {
+    "latijn": "cras",
+    "nederlands": "morgen"
+  },
+  {
+    "latijn": "paulatim",
+    "nederlands": "langzamerhand"
+  },
+  {
+    "latijn": "postremo",
+    "nederlands": "tenslotte"
+  },
+  {
+    "latijn": "quantus, -a, -um",
+    "nederlands": "1 hoe groot 2 zo groot als"
+  },
+  {
+    "latijn": "instruere",
+    "nederlands": "opstellen"
+  },
+  {
+    "latijn": "interficere, -ficio",
+    "nederlands": "doden"
+  },
+  {
+    "latijn": "malle inf.prs",
+    "nederlands": "liever willen"
+  },
+  {
+    "latijn": "merēre",
+    "nederlands": "verdienen"
+  },
+  {
+    "latijn": "obsidēre",
+    "nederlands": "belegeren"
+  },
+  {
+    "latijn": "offerre",
+    "nederlands": "aanbieden"
+  },
+  {
+    "latijn": "parēre",
+    "nederlands": "gehoorzamen"
+  },
+  {
+    "latijn": "referre",
+    "nederlands": "1 terugbrengen 2 (be)halen 3 rapporteren"
+  },
+  {
+    "latijn": "revocare",
+    "nederlands": "terugroepen"
+  },
+  {
+    "latijn": "velle inf.prs",
+    "nederlands": "willen"
+  },
+  {
+    "latijn": "vis van velle",
+    "nederlands": "jij wilt"
+  },
+  {
+    "latijn": "instructus",
+    "nederlands": "ppp van instruere"
+  },
+  {
+    "latijn": "interfectus",
+    "nederlands": "ppp van interficere"
+  },
+  {
+    "latijn": "relatus",
+    "nederlands": "ppp van referre"
+  },
+  {
+    "latijn": "relictus",
+    "nederlands": "ppp van relinquere"
+  },
+  {
+    "latijn": "victus",
+    "nederlands": "ppp van vincere"
+  },
+  {
+    "latijn": "campus",
+    "nederlands": "veld"
+  },
+  {
+    "latijn": "laus, laudes",
+    "nederlands": "lof, roem"
+  },
+  {
+    "latijn": "pax, gen pacis",
+    "nederlands": "vrede"
+  },
+  {
+    "latijn": "proelium",
+    "nederlands": "gevecht, veldslag"
+  },
+  {
+    "latijn": "spatium",
+    "nederlands": "1 afstand 2 ruimte"
+  },
+  {
+    "latijn": "latus, -a, -um",
+    "nederlands": "breed, wijd"
+  },
+  {
+    "latijn": "totus, -a, -um",
+    "nederlands": "(ge)heel"
+  },
+  {
+    "latijn": "propter + acc",
+    "nederlands": "wegens"
+  },
+  {
+    "latijn": "paene",
+    "nederlands": "bijna"
+  },
+  {
+    "latijn": "afferre",
+    "nederlands": "(mee)brengen"
+  },
+  {
+    "latijn": "ascendere",
+    "nederlands": "bestijgen, klimmen (op)"
+  },
+  {
+    "latijn": "deicere, deicio",
+    "nederlands": "neergooien, afwerpen"
+  },
+  {
+    "latijn": "ferre",
+    "nederlands": "1 dragen, brengen 2 verdragen"
+  },
+  {
+    "latijn": "petere",
+    "nederlands": "1 zoeken, vragen 2 proberen te bereiken3 aanvallen"
+  },
+  {
+    "latijn": "promittere",
+    "nederlands": "beloven"
+  },
+  {
+    "latijn": "ascendi",
+    "nederlands": "pf van ascendere"
+  },
+  {
+    "latijn": "attuli",
+    "nederlands": "pf van afferre"
+  },
+  {
+    "latijn": "deieci",
+    "nederlands": "pf van deicere"
+  },
+  {
+    "latijn": "obtuli",
+    "nederlands": "pf van offerre"
+  },
+  {
+    "latijn": "pressi",
+    "nederlands": "pf van premere"
+  },
+  {
+    "latijn": "promisi",
+    "nederlands": "pf van promittere"
+  },
+  {
+    "latijn": "tuli",
+    "nederlands": "pf van ferre"
+  },
+  {
+    "latijn": "deiectus",
+    "nederlands": "ppp van deicere"
+  },
+  {
+    "latijn": "mercator, mercatores",
+    "nederlands": "koopman"
+  },
+  {
+    "latijn": "magnitudo, -dinis",
+    "nederlands": "grootte"
+  },
+  {
+    "latijn": "regnum",
+    "nederlands": "1 koningschap 2 koninkrijk"
+  },
+  {
+    "latijn": "mirus, -a, -um",
+    "nederlands": "wonderlijk, bijzonder"
+  },
+  {
+    "latijn": "nisi",
+    "nederlands": "1 als niet 2 behalve"
+  },
+  {
+    "latijn": "par, par-",
+    "nederlands": "1 gelijk(waardig) 2 + dat opgewassen tegen"
+  },
+  {
+    "latijn": "atque",
+    "nederlands": "en"
+  },
+  {
+    "latijn": "afficere, afficio",
+    "nederlands": "treffen, vervullen"
+  },
+  {
+    "latijn": "constat",
+    "nederlands": "het staat vast"
+  },
+  {
+    "latijn": "invenire",
+    "nederlands": "1 vinden 2 uitvinden"
+  },
+  {
+    "latijn": "nocēre + dat",
+    "nederlands": "schaden, kwaad doen"
+  },
+  {
+    "latijn": "nolle inf.prs",
+    "nederlands": "niet willen"
+  },
+  {
+    "latijn": "sperare",
+    "nederlands": "hopen"
+  },
+  {
+    "latijn": "interfeci",
+    "nederlands": "pf van interficere"
+  },
+  {
+    "latijn": "affectus",
+    "nederlands": "ppp van afficere"
+  },
+  {
+    "latijn": "collectus",
+    "nederlands": "ppp van colligere"
+  },
+  {
+    "latijn": "doctus",
+    "nederlands": "ppp van docēre"
+  },
+  {
+    "latijn": "ductus",
+    "nederlands": "ppp van ducere"
+  },
+  {
+    "latijn": "factus",
+    "nederlands": "ppp van facere"
+  },
+  {
+    "latijn": "inventus",
+    "nederlands": "ppp van invenire"
+  },
+  {
+    "latijn": "futurum",
+    "nederlands": "pfa van esse"
+  },
+  {
+    "latijn": "aetas, aetates",
+    "nederlands": "leeftijd"
+  },
+  {
+    "latijn": "ira",
+    "nederlands": "woede"
+  },
+  {
+    "latijn": "lumen, lumina",
+    "nederlands": "1 licht 2 lamp"
+  },
+  {
+    "latijn": "mens, mentes",
+    "nederlands": "geest, verstand"
+  },
+  {
+    "latijn": "mundus",
+    "nederlands": "wereld"
+  },
+  {
+    "latijn": "pondus, pondera",
+    "nederlands": "gewicht"
+  },
+  {
+    "latijn": "scientia",
+    "nederlands": "kennis, wetenschap"
+  },
+  {
+    "latijn": "summus, -a, -um",
+    "nederlands": "1 hoogste 2 de top van"
+  },
+  {
+    "latijn": "tener, -era, -erum",
+    "nederlands": "1 teer 2 jong"
+  },
+  {
+    "latijn": "utilis, -e",
+    "nederlands": "nuttig"
+  },
+  {
+    "latijn": "nimium + gen",
+    "nederlands": "teveel"
+  },
+  {
+    "latijn": "confirmare",
+    "nederlands": "bevestigen"
+  },
+  {
+    "latijn": "contemnere",
+    "nederlands": "minachten"
+  },
+  {
+    "latijn": "desiderare",
+    "nederlands": "verlangen (naar)"
+  },
+  {
+    "latijn": "praeferre",
+    "nederlands": "liever hebben, verkiezen"
+  },
+  {
+    "latijn": "bibi",
+    "nederlands": "pf van bibere"
+  },
+  {
+    "latijn": "contempsi",
+    "nederlands": "pf van contemnere"
+  },
+  {
+    "latijn": "possedi",
+    "nederlands": "pf van possidēre"
+  },
+  {
+    "latijn": "quaesivi",
+    "nederlands": "pf van quaerere"
+  },
+  {
+    "latijn": "accensus",
+    "nederlands": "ppp van accendere"
+  },
+  {
+    "latijn": "dictum",
+    "nederlands": "ppp van dicere"
+  },
+  {
+    "latijn": "canis, canes",
+    "nederlands": "hond"
+  },
+  {
+    "latijn": "gloria",
+    "nederlands": "roem"
+  },
+  {
+    "latijn": "honor, honores",
+    "nederlands": "1 eer 2 (ere)ambt"
+  },
+  {
+    "latijn": "lux, luces",
+    "nederlands": "(dag)licht"
+  },
+  {
+    "latijn": "potestas, -ates",
+    "nederlands": "1 macht 2 gelegenheid"
+  },
+  {
+    "latijn": "studium",
+    "nederlands": "1 ijver, enthousiasme 2 studie"
+  },
+  {
+    "latijn": "falsus, -a, -um",
+    "nederlands": "onwaar, ongegrond"
+  },
+  {
+    "latijn": "pauper, pauper-",
+    "nederlands": "arm(oedig)"
+  },
+  {
+    "latijn": "verus, -a, -um",
+    "nederlands": "echt, waar"
+  },
+  {
+    "latijn": "ne ... quidem",
+    "nederlands": "zelfs niet"
+  },
+  {
+    "latijn": "quare",
+    "nederlands": "waarom"
+  },
+  {
+    "latijn": "quasi",
+    "nederlands": "1 als(of) 2 als het ware"
+  },
+  {
+    "latijn": "certare",
+    "nederlands": "strijden"
+  },
+  {
+    "latijn": "decernere",
+    "nederlands": "beslissen"
+  },
+  {
+    "latijn": "haerēre",
+    "nederlands": "blijven steken"
+  },
+  {
+    "latijn": "iacere, iacio",
+    "nederlands": "werpen"
+  },
+  {
+    "latijn": "impedire",
+    "nederlands": "belemmeren, verhinderen"
+  },
+  {
+    "latijn": "instare + dat",
+    "nederlands": "achterna zitten"
+  },
+  {
+    "latijn": "invadere",
+    "nederlands": "binnendringen, aanvallen"
+  },
+  {
+    "latijn": "recipere, recipio",
+    "nederlands": "1 ontvangen 2 se zich terugtrekken"
+  },
+  {
+    "latijn": "trahere",
+    "nederlands": "trekken"
+  },
+  {
+    "latijn": "urgēre",
+    "nederlands": "in het nauw brengen"
+  },
+  {
+    "latijn": "acies 5",
+    "nederlands": "slaglinie"
+  },
+  {
+    "latijn": "cornu 4",
+    "nederlands": "hoorn"
+  },
+  {
+    "latijn": "dies 5 m",
+    "nederlands": "dag"
+  },
+  {
+    "latijn": "exercitus 4",
+    "nederlands": "leger"
+  },
+  {
+    "latijn": "gradus 4",
+    "nederlands": "stap, trede"
+  },
+  {
+    "latijn": "impetus 4",
+    "nederlands": "1 het aanstormen 2 aanval"
+  },
+  {
+    "latijn": "manus 4 v",
+    "nederlands": "hand"
+  },
+  {
+    "latijn": "metus 4",
+    "nederlands": "vrees, zorg"
+  },
+  {
+    "latijn": "res 5",
+    "nederlands": "zaak, ding, kwestie"
+  },
+  {
+    "latijn": "strepitus 4",
+    "nederlands": "lawaai"
+  },
+  {
+    "latijn": "tumultus 4",
+    "nederlands": "opschudding, tumult"
+  },
+  {
+    "latijn": "dexter, -tra, -trum",
+    "nederlands": "rechter-, rechts"
+  },
+  {
+    "latijn": "incolumis, -e",
+    "nederlands": "ongedeerd"
+  },
+  {
+    "latijn": "universus, -a, -um",
+    "nederlands": "gezamenlijk"
+  },
+  {
+    "latijn": "uterque",
+    "nederlands": "elk van beiden"
+  },
+  {
+    "latijn": "uter, utra, utrum",
+    "nederlands": "welk(e) van beiden"
+  },
+  {
+    "latijn": "corrumpere",
+    "nederlands": "1 bederven 2 omkopen"
+  },
+  {
+    "latijn": "obtinēre",
+    "nederlands": "1 in bezit krijgen 2 in bezit hebben"
+  },
+  {
+    "latijn": "captus",
+    "nederlands": "ppp van capere"
+  },
+  {
+    "latijn": "datum",
+    "nederlands": "ppp van dare"
+  },
+  {
+    "latijn": "adventus 4",
+    "nederlands": "aankomst"
+  },
+  {
+    "latijn": "auxilium",
+    "nederlands": "1 hulp 2 mv hulptroepen"
+  },
+  {
+    "latijn": "centurio, -ones",
+    "nederlands": "centurio, officier"
+  },
+  {
+    "latijn": "color, colores",
+    "nederlands": "kleur"
+  },
+  {
+    "latijn": "gens, gentes",
+    "nederlands": "1 volk, stam 2 geslacht"
+  },
+  {
+    "latijn": "munus, munera",
+    "nederlands": "1 taak 2 geschenk"
+  },
+  {
+    "latijn": "oppidum",
+    "nederlands": "(vesting)stad"
+  },
+  {
+    "latijn": "praemium",
+    "nederlands": "beloning"
+  },
+  {
+    "latijn": "socius",
+    "nederlands": "bondgenoot"
+  },
+  {
+    "latijn": "species 5",
+    "nederlands": "uiterlijk"
+  },
+  {
+    "latijn": "vis, vires",
+    "nederlands": "kracht, geweld"
+  },
+  {
+    "latijn": "barbarus, -a, -um",
+    "nederlands": "1 bnw barbaars 2 znw barbaar"
+  },
+  {
+    "latijn": "saevus, -a, -um",
+    "nederlands": "wild, woest"
+  },
+  {
+    "latijn": "solus, -a, -um",
+    "nederlands": "alleen"
+  },
+  {
+    "latijn": "usque ad + acc",
+    "nederlands": "tot aan"
+  },
+  {
+    "latijn": "bis",
+    "nederlands": "tweemaal"
+  },
+  {
+    "latijn": "paulo",
+    "nederlands": "een beetje"
+  },
+  {
+    "latijn": "quoniam",
+    "nederlands": "aangezien"
+  },
+  {
+    "latijn": "tam",
+    "nederlands": "zo"
+  },
+  {
+    "latijn": "convocare",
+    "nederlands": "bijeenroepen"
+  },
+  {
+    "latijn": "dedere (se)",
+    "nederlands": "(zich) overgeven"
+  },
+  {
+    "latijn": "descendere",
+    "nederlands": "afdalen"
+  },
+  {
+    "latijn": "inire",
+    "nederlands": "1 ingaan 2 beginnen"
+  },
+  {
+    "latijn": "patēre",
+    "nederlands": "openstaan"
+  },
+  {
+    "latijn": "properare",
+    "nederlands": "zich haasten"
+  },
+  {
+    "latijn": "proponere",
+    "nederlands": "1 voorleggen 2 voorstellen"
+  },
+  {
+    "latijn": "descendi",
+    "nederlands": "pf van descendere"
+  },
+  {
+    "latijn": "inii",
+    "nederlands": "pf van inire"
+  },
+  {
+    "latijn": "clausus",
+    "nederlands": "ppp van claudere"
+  },
+  {
+    "latijn": "missus",
+    "nederlands": "ppp van mittere"
+  },
+  {
+    "latijn": "propositus",
+    "nederlands": "ppp van proponere"
+  },
+  {
+    "latijn": "exitus 4",
+    "nederlands": "1 uitgang 2 afloop"
+  },
+  {
+    "latijn": "fides 5",
+    "nederlands": "1 (woord van) trouw 2 vertrouwen"
+  },
+  {
+    "latijn": "imperator, -ores",
+    "nederlands": "1 opperbevelhebber 2 keizer"
+  },
+  {
+    "latijn": "imperium",
+    "nederlands": "1 bevel, gezag 2 heerschappij, rijk"
+  },
+  {
+    "latijn": "legatus",
+    "nederlands": "gezant"
+  },
+  {
+    "latijn": "princeps, principes",
+    "nederlands": "1 bnw voornaamste 2 znw leider"
+  },
+  {
+    "latijn": "spes 5",
+    "nederlands": "hoop, verwachting"
+  },
+  {
+    "latijn": "posterus, -a, -um",
+    "nederlands": "volgend"
+  },
+  {
+    "latijn": "singuli, -ae, -a mv",
+    "nederlands": "stuk voor stuk"
+  },
+  {
+    "latijn": "vivus, -a, -um",
+    "nederlands": "levend"
+  },
+  {
+    "latijn": "intra + acc",
+    "nederlands": "binnen"
+  },
+  {
+    "latijn": "vix",
+    "nederlands": "met moeite, nauwelijks"
+  },
+  {
+    "latijn": "coepi",
+    "nederlands": "pf ik ben begonnen"
+  },
+  {
+    "latijn": "imminēre (+ dat)",
+    "nederlands": "(be)dreigen"
+  },
+  {
+    "latijn": "metuere",
+    "nederlands": "vrezen"
+  },
+  {
+    "latijn": "praestare",
+    "nederlands": "1 verrichten 2 se zich betonen"
+  },
+  {
+    "latijn": "prodesse",
+    "nederlands": "voordelig zijn"
+  },
+  {
+    "latijn": "transire",
+    "nederlands": "oversteken"
+  },
+  {
+    "latijn": "transii",
+    "nederlands": "pf van transire"
+  },
+  {
+    "latijn": "actus",
+    "nederlands": "ppp van agere"
+  },
+  {
+    "latijn": "iactus",
+    "nederlands": "ppp van iacere"
+  },
+  {
+    "latijn": "obtentus",
+    "nederlands": "ppp van obtinēre"
+  },
+  {
+    "latijn": "civitas, civitates",
+    "nederlands": "1 burgerij 2 stad"
+  },
+  {
+    "latijn": "clementia",
+    "nederlands": "genade, mildheid"
+  },
+  {
+    "latijn": "luxuria",
+    "nederlands": "(zucht naar) weelde"
+  },
+  {
+    "latijn": "plebs, gen plebis",
+    "nederlands": "het gewone volk"
+  },
+  {
+    "latijn": "res publica",
+    "nederlands": "staat, republiek"
+  },
+  {
+    "latijn": "senatus 4",
+    "nederlands": "senaat"
+  },
+  {
+    "latijn": "virgo, virgines",
+    "nederlands": "meisje, maagd"
+  },
+  {
+    "latijn": "civilis, -e",
+    "nederlands": "1 burger2 openbaar"
+  },
+  {
+    "latijn": "inimicus, (-a, -um)",
+    "nederlands": "1 bnw vijandig 2 znw vijand"
+  },
+  {
+    "latijn": "inanis, -e",
+    "nederlands": "leeg, zinloos"
+  },
+  {
+    "latijn": "adire (ad) + acc",
+    "nederlands": "gaan naar"
+  },
+  {
+    "latijn": "efferre",
+    "nederlands": "naar buiten dragen"
+  },
+  {
+    "latijn": "includere",
+    "nederlands": "insluiten"
+  },
+  {
+    "latijn": "iuvare",
+    "nederlands": "helpen"
+  },
+  {
+    "latijn": "liberare (a + abl)",
+    "nederlands": "bevrijden (van)"
+  },
+  {
+    "latijn": "regnare",
+    "nederlands": "koning zijn"
+  },
+  {
+    "latijn": "simulare",
+    "nederlands": "doen alsof, simuleren"
+  },
+  {
+    "latijn": "surgere",
+    "nederlands": "opstaan"
+  },
+  {
+    "latijn": "adii",
+    "nederlands": "pf van adire"
+  },
+  {
+    "latijn": "iuvi",
+    "nederlands": "pf van iuvare"
+  },
+  {
+    "latijn": "surrexi",
+    "nederlands": "pf van surgere"
+  },
+  {
+    "latijn": "volui",
+    "nederlands": "pf van velle"
+  },
+  {
+    "latijn": "conditus",
+    "nederlands": "ppp van condere"
+  },
+  {
+    "latijn": "inclusus",
+    "nederlands": "ppp van includere"
+  },
+  {
+    "latijn": "facies 5",
+    "nederlands": "gezicht, gedaante"
+  },
+  {
+    "latijn": "regina",
+    "nederlands": "koningin"
+  },
+  {
+    "latijn": "spiritus 4",
+    "nederlands": "1 adem 2 geest"
+  },
+  {
+    "latijn": "insignis, -e",
+    "nederlands": "opvallend"
+  },
+  {
+    "latijn": "hic, haec, hoc",
+    "nederlands": "deze, dit"
+  },
+  {
+    "latijn": "idem, eadem, idem",
+    "nederlands": "dezelfde, hetzelfde"
+  },
+  {
+    "latijn": "ille, illa, illud",
+    "nederlands": "die, dat"
+  },
+  {
+    "latijn": "iste, ista, istud",
+    "nederlands": "die, dat"
+  },
+  {
+    "latijn": "sibi dat",
+    "nederlands": "(aan/voor) zichzelf"
+  },
+  {
+    "latijn": "cavēre (+ acc)",
+    "nederlands": "oppassen (voor)"
+  },
+  {
+    "latijn": "contingere",
+    "nederlands": "1 + acc aanraken 2 gebeuren"
+  },
+  {
+    "latijn": "convenire",
+    "nederlands": "1 bijeenkomen 2 + acc ontmoeten"
+  },
+  {
+    "latijn": "excitare",
+    "nederlands": "(op)wekken"
+  },
+  {
+    "latijn": "interest",
+    "nederlands": "het is van belang"
+  },
+  {
+    "latijn": "interire",
+    "nederlands": "omkomen, sterven"
+  },
+  {
+    "latijn": "iungere",
+    "nederlands": "verbinden"
+  },
+  {
+    "latijn": "monēre",
+    "nederlands": "1 waarschuwen 2 aansporen"
+  },
+  {
+    "latijn": "neglegere",
+    "nederlands": "verwaarlozen"
+  },
+  {
+    "latijn": "contigi",
+    "nederlands": "pf van contingere"
+  },
+  {
+    "latijn": "invasi",
+    "nederlands": "pf van invadere"
+  },
+  {
+    "latijn": "coactus",
+    "nederlands": "ppp van cogere"
+  },
+  {
+    "latijn": "interiturus",
+    "nederlands": "pfa van interire"
+  },
+  {
+    "latijn": "rediturus",
+    "nederlands": "pfa van redire"
+  },
+  {
+    "latijn": "nubes, nubes",
+    "nederlands": "wolk"
+  },
+  {
+    "latijn": "omen, omina",
+    "nederlands": "voorteken"
+  },
+  {
+    "latijn": "pietas, pietates",
+    "nederlands": "1 plichtsgevoel 2 liefde, trouw"
+  },
+  {
+    "latijn": "somnium",
+    "nederlands": "droom"
+  },
+  {
+    "latijn": "vultus 4",
+    "nederlands": "gezicht"
+  },
+  {
+    "latijn": "ante",
+    "nederlands": "1 + acc voor 2 bijw eerder"
+  },
+  {
+    "latijn": "supra",
+    "nederlands": "1 + acc boven 2 bijw (er)boven"
+  },
+  {
+    "latijn": "efficere, efficio",
+    "nederlands": "gedaan krijgen"
+  },
+  {
+    "latijn": "eligere",
+    "nederlands": "uitkiezen"
+  },
+  {
+    "latijn": "effeci",
+    "nederlands": "pf vanefficere"
+  },
+  {
+    "latijn": "arcessitus",
+    "nederlands": "ppp van arcessere"
+  },
+  {
+    "latijn": "electus",
+    "nederlands": "ppp van eligere"
+  },
+  {
+    "latijn": "victurus",
+    "nederlands": "pfa van vivere"
+  },
+  {
+    "latijn": "audacia",
+    "nederlands": "(over)moed"
+  },
+  {
+    "latijn": "morbus",
+    "nederlands": "ziekte"
+  },
+  {
+    "latijn": "sapienta",
+    "nederlands": "wijsheid"
+  },
+  {
+    "latijn": "sors,",
+    "nederlands": "sortes lot, toeval"
+  },
+  {
+    "latijn": "aeger, aegra, aegrum",
+    "nederlands": "ziek"
+  },
+  {
+    "latijn": "durus, -a, -um",
+    "nederlands": "hard"
+  },
+  {
+    "latijn": "Graecus (-a, -um)",
+    "nederlands": "1 bnw Grieks 2 znw Griek"
+  },
+  {
+    "latijn": "improbus, -a, -um",
+    "nederlands": "slecht, gemeen"
+  },
+  {
+    "latijn": "nobilis, -e",
+    "nederlands": "adellijk, aanzienlijk"
+  },
+  {
+    "latijn": "rectus, -a, -um",
+    "nederlands": "recht, juist"
+  },
+  {
+    "latijn": "ne + con HZ",
+    "nederlands": "niet"
+  },
+  {
+    "latijn": "prior, prius",
+    "nederlands": "eerdere, eerste"
+  },
+  {
+    "latijn": "quam uitroep",
+    "nederlands": "wat, hoe"
+  },
+  {
+    "latijn": "utinam",
+    "nederlands": "leidt een wens in, niet vertalen"
+  },
+  {
+    "latijn": "talis, -e",
+    "nederlands": "zodanig"
+  },
+  {
+    "latijn": "cernere",
+    "nederlands": "onderscheiden, zien"
+  },
+  {
+    "latijn": "cognoscere",
+    "nederlands": "1 te weten komen 2 leren kennen"
+  },
+  {
+    "latijn": "cognovi",
+    "nederlands": "pf 1 weten 2 kennen"
+  },
+  {
+    "latijn": "demittere",
+    "nederlands": "laten zakken, neerlaten"
+  },
+  {
+    "latijn": "evadere",
+    "nederlands": "ontsnappen"
+  },
+  {
+    "latijn": "exclamare",
+    "nederlands": "uitroepen"
+  },
+  {
+    "latijn": "iactare",
+    "nederlands": "1 slingeren 2 opscheppen over"
+  },
+  {
+    "latijn": "solvere",
+    "nederlands": "1 losmaken 2 betalen"
+  },
+  {
+    "latijn": "crevi",
+    "nederlands": "pf van cernere"
+  },
+  {
+    "latijn": "cognovi",
+    "nederlands": "pf van cognoscere"
+  },
+  {
+    "latijn": "demisi",
+    "nederlands": "pf van demittere"
+  },
+  {
+    "latijn": "proposui",
+    "nederlands": "pf van proponere"
+  },
+  {
+    "latijn": "comes, comites",
+    "nederlands": "metgezel"
+  },
+  {
+    "latijn": "genu, genua",
+    "nederlands": "knie"
+  },
+  {
+    "latijn": "gratia",
+    "nederlands": "1 gunst 2 dank 3 charme"
+  },
+  {
+    "latijn": "praeda",
+    "nederlands": "buit"
+  },
+  {
+    "latijn": "res gestae mv",
+    "nederlands": "oorlogsdaden"
+  },
+  {
+    "latijn": "adeo",
+    "nederlands": "zo(zeer)"
+  },
+  {
+    "latijn": "cum + con",
+    "nederlands": "1 toen, nadat 2 omdat 3 hoewel"
+  },
+  {
+    "latijn": "inter se",
+    "nederlands": "onderling"
+  },
+  {
+    "latijn": "ne + con BZ",
+    "nederlands": "1 (met de bedoeling) dat niet, om niet te 2 ww van vrezen dat"
+  },
+  {
+    "latijn": "ut + con",
+    "nederlands": "1 (met de bedoeling) dat, om te2 (met het gevolg) dat, zodat"
+  },
+  {
+    "latijn": "tantus, -a, -um",
+    "nederlands": "zo groot"
+  }
+]
