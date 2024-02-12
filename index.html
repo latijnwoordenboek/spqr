@@ -1,66 +1,67 @@
-
 <!DOCTYPE html>
-<html>
- <head>
-  <title>SPQR</title>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
-  <link rel="stylesheet" href="/index.css" />
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <style>
-  #result {
-   position: absolute;
-   width: 100%;
-   max-width:870px;
-   cursor: pointer;
-   overflow-y: auto;
-   max-height: 400px;
-   box-sizing: border-box;
-   z-index: 1001;
-  }
-  .link-class:hover{
-   background-color:#f1f1f1;
-  }
-  </style>
- </head>
- <body>
-  <br /><br />
-  <div class="container" style="width:900px;">
-   <h2 align="center">SPQR woorden opzoeken</h2>
-   <h3 align="center"></h3>   
-   <br /><br />
-   <div align="center">
-    <input type="text" name="search" id="search" placeholder="Zoek Latijnse of Nederlandse woorden" class="form-control" />
-   </div>
-   <ul class="list-group" id="result"></ul>
-   <br />
-  </div>
- </body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SPQR</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/index.css" />
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <style>
+        #result {
+            position: absolute;
+            width: 100%;
+            max-width:870px;
+            cursor: pointer;
+            overflow-y: auto;
+            max-height: 400px;
+            box-sizing: border-box;
+            z-index: 1001;
+        }
+
+        .link-class:hover{
+            background-color:#f1f1f1;
+        }
+    </style>
+</head>
+<body>
+    <br /><br />
+    <div class="container" style="width:900px;">
+        <h2 align="center">SPQR woorden opzoeken</h2>
+        <h3 align="center"></h3>   
+        <br /><br />
+        <div align="center">
+            <input type="text" name="search" id="search" placeholder="Zoek Latijnse of Nederlandse woorden" class="form-control" />
+        </div>
+        <ul class="list-group" id="result"></ul>
+        <br />
+    </div>
+
+    <script>
+        $(document).ready(function(){
+            $.ajaxSetup({ cache: false });
+            $('#search').keyup(function(){
+                $('#result').html('');
+                var searchField = $('#search').val().toLowerCase();
+                var keywords = searchField.split(',').map(keyword => keyword.trim());
+                var expression = new RegExp(keywords.join('|'), "i");
+
+                $.getJSON('data.json', function(data) {
+                    $.each(data, function(_, value){
+                        if (expression.test(value.latijn.toLowerCase()) || expression.test(value.nederlands.toLowerCase()) || expression.test(value.les.toLowerCase())) {
+                            $('#result').append('<li class="list-group-item link-class"> '+value.latijn+' | <span class="text-muted">'+value.nederlands+'</span></li>');
+                        }
+                    });   
+                });
+            });
+            
+            $('#result').on('click', 'li', function() {
+                var click_text = $(this).text().split('|');
+                $('#search').val($.trim(click_text[0]));
+                $("#result").html('');
+            });
+        });
+    </script>
+</body>
 </html>
-
-<script>
-$(document).ready(function(){
- $.ajaxSetup({ cache: false });
- $('#search').keyup(function(){
-  $('#result').html('');
-  $('#state').val('');
-  var searchField = $('#search').val();
-  var expression = new RegExp(searchField, "i");
-  $.getJSON('data.json', function(data) {
-   $.each(data, function(key, value){
-    if (value.latijn.search(expression) != -1 || value.nederlands.search(expression) != -1)
-    {
-     $('#result').append('<li class="list-group-item link-class"> '+value.latijn+' | <span class="text-muted">'+value.nederlands+'</span></li>');
-    }
-   });   
-  });
- });
- 
- $('#result').on('click', 'li', function() {
-  var click_text = $(this).text().split('|');
-  $('#search').val($.trim(click_text[0]));
-  $("#result").html('');
- });
-});
-</script>
-
